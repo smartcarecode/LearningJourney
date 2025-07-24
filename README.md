@@ -22,7 +22,8 @@ Create a portfolio of hands-on projects that combine security and data analysis 
 
 Secure a role that integrates both technical knowledge and industry experience to drive innovation and protection.
 
-My Learning Roadmap (Flexible & Step-by-Step)
+My Learning Roadmap (Flexible & Step-by-Step):
+
 Establish a GitHub presence to organize study notes, labs, and projects.
 
 Learn foundational topics including computer systems, networking, and cybersecurity basics.
