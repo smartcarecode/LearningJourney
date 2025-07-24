@@ -6,7 +6,9 @@ I’m a healthcare professional transitioning into Cybersecurity and Data Analys
 
 My Aims & Objectives
 
-Aim: To become a well-rounded Cybersecurity and Data Analysis professional focusing on data protection, privacy, and ethical use — especially within healthcare.
+Aim: 
+
+To become a well-rounded Cybersecurity and Data Analysis professional focusing on data protection, privacy, and ethical use — especially within healthcare.
 
 Objectives:
 
