@@ -1,4 +1,4 @@
-Career Transition: Healthcare to Cybersecurity & Data Analysis
+Career Transition: Healthcare to Cybersecurity & Data Analysis.
 Hello! I’m a healthcare professional transitioning into Cybersecurity and Data Analysis. With over 7 years of experience in the healthcare sector, I’ve seen firsthand how critical it is to protect sensitive patient information and ensure the integrity of healthcare systems. This inspired me to combine my healthcare background with technical skills that help safeguard data and support smarter, more secure decision-making.
 
 My Aims & Objectives
