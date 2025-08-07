@@ -85,9 +85,6 @@ Links to useful articles and videos
 
 ISC² Certified in Cybersecurity (CC)
 
-ISC² Candidate Program
-# ISC2 NOTES
-
 # ISC2 NOTES
 
 ## 🌟 Progress Update: Today’s Learning Achievement
