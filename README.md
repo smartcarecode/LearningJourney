@@ -42,3 +42,132 @@ This repository is a personal space to track progress, share knowledge, and docu
 
 Thanks for visiting! Feel free to explore my work, share feedback, or connect professionally.# LearningJourney
 From healthcare to cybersecurity, focused on securing patient data.
+
+🛡️ ISC² Candidate – Certified in Cybersecurity (CC) Preparation
+I am currently registered as an ISC² Candidate as part of the One Million Certified in Cybersecurity initiative. This program provides free training and a free exam attempt to help individuals start their journey into cybersecurity.
+
+I'm actively studying to earn the Certified in Cybersecurity (CC) certification — a globally recognized entry-level credential that covers the basics of information security.
+
+🔍 What I’m Learning:
+Security Principles – Threats, vulnerabilities, CIA triad, risk concepts
+
+Access Control – Authentication, authorization, and identity management
+
+Network Security – Network devices, firewalls, secure communication
+
+Security Operations – Monitoring, incident response, disaster recovery
+
+Software Development Security – Secure coding and common vulnerabilities
+
+🎯 My Goals:
+Complete the CC training and pass the certification exam
+
+Build foundational skills for a cybersecurity career
+
+Apply knowledge through hands-on labs and open-source projects
+
+Document my learning journey and share useful resources
+
+📂 About This Repository:
+This GitHub repository will include:
+
+Notes and summaries from the official training
+
+Cheat sheets and visual guides
+
+Sample practice questions
+
+Scripts and walkthroughs for security tools and labs
+
+Links to useful articles and videos
+
+📌 Want to learn more?
+
+ISC² Certified in Cybersecurity (CC)
+
+ISC² Candidate Program
+# ISC2 NOTES
+
+# ISC2 NOTES
+
+## 🌟 Progress Update: Today’s Learning Achievement
+
+Today, I dedicated focused time to deeply study and understand the **CIA Triad** — the core foundation of information security.  
+This principle of **Confidentiality, Integrity, and Availability** is vital for protecting data in any environment.
+
+I’m excited to have grasped these concepts clearly, and I’m committed to building on this knowledge every day.  
+This marks an important step in my journey toward becoming a skilled cybersecurity professional.
+
+Continuous learning and growth are my priorities, and I’m motivated to keep pushing forward with discipline and passion.
+
+---
+
+# 🔐 The CIA Triad: Fundamental Principles of Information Security
+
+The **CIA Triad** defines the three core goals to protect information systems:
+
+- **Confidentiality:** Keep data private and secure.  
+- **Integrity:** Ensure data is accurate and trustworthy.  
+- **Availability:** Make data and systems accessible when needed.
+
+---
+
+## 🔒 Confidentiality
+
+1. Grant access **only to authorized users**.  
+2. Block **unauthorized access** effectively.  
+3. Use **strong passwords** and **multi-factor authentication**.  
+4. Protect data with **encryption**.  
+5. Limit access based on **user roles**.  
+6. Train employees on **data privacy best practices**.  
+7. Log and monitor **data access activities**.  
+8. Label sensitive data as **confidential**.  
+9. Avoid sharing data over **public or unsecured networks**.  
+10. Ensure policies prevent **data leakage or exposure**.
+
+**Example:** Nurses can view patient records; cleaning staff cannot.
+
+---
+
+## 🧾 Integrity
+
+1. Maintain data **accuracy and consistency**.  
+2. Prevent **unauthorized data modifications**.  
+3. Use tools to **detect changes or tampering**.  
+4. Keep detailed **logs of all data changes**.  
+5. Perform **regular backups**.  
+6. Allow edits by **trusted personnel only**.  
+7. Regularly check data for **errors or inconsistencies**.  
+8. Follow strict **change control procedures**.  
+9. Use **digital signatures** for data verification.  
+10. Verify data sources to ensure **authenticity**.
+
+**Example:** Lab results remain unaltered unless properly updated.
+
+---
+
+## ⚙️ Availability
+
+1. Ensure systems and data are **accessible when needed**.  
+2. Resolve issues **promptly to reduce downtime**.  
+3. Use **backup systems** to maintain service during failures.  
+4. Perform regular **system maintenance and updates**.  
+5. Defend against attacks that **disrupt service**.  
+6. Monitor system health for early issue detection.  
+7. Maintain **backup power sources** like generators.  
+8. Prepare **disaster recovery plans**.  
+9. Design systems to support **high user demand**.  
+10. Protect hardware from **damage or theft**.
+
+**Example:** Hospital IT systems run continuously, 24/7.
+
+---
+
+### Summary Table
+
+| Principle       | Focus                     | Example                                  |
+|-----------------|---------------------------|------------------------------------------|
+| Confidentiality | Protect data privacy       | Nurses access records; cleaners do not.  |
+| Integrity       | Ensure data accuracy       | Lab results remain unchanged unless valid.|
+| Availability    | Keep systems accessible    | Hospital systems operate without downtime.|
+
