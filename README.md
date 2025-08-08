@@ -226,6 +226,23 @@ Understanding privacy and data protection is essential in today’s digital worl
 - Compliance helps avoid penalties and build trust
 
 ---
+Non-Repudiation
+Definition:
+Non-repudiation ensures that a person cannot deny performing a digital action. It provides proof of actions, supports trust, and holds users accountable in digital environments.
+________________________________________
+
+🔑 Key Points:
+1.	Prevents Denial – Users can’t deny actions like sending messages or making payments.
+2.	Legal Proof – Digital records can serve as evidence in legal matters.
+3.	Tracks Actions – Systems record who did what and when.
+4.	Secures Online Transactions – Important for safe e-commerce and online banking.
+5.	Stops Impersonation – Confirms identity using tools like digital signatures.
+6.	Blocks False Claims – Prevents users from lying about their actions.
+7.	Builds Trust – Makes digital communication and transactions reliable.
+8.	Used in Business and Law – Helps enforce digital agreements and contracts.
+9.	Common in Daily Use – Seen in emails, e-signatures, and online orders.
+10.	Ensures Responsibility – Holds people accountable for what they do online.
+
 
 
 
