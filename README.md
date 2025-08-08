@@ -169,46 +169,63 @@ The **CIA Triad** defines the three core goals to protect information systems:
 | Availability    | Keep systems accessible    | Hospital systems operate without downtime.|
 
 
-Privacy and Data Protection Overview
+# Privacy and Data Protection Overview
+
 Understanding privacy and data protection is essential in today’s digital world. Personal data must be handled responsibly to protect individuals and comply with laws.
 
-What is Privacy?
-Privacy gives individuals control over their personal information, such as names, emails, and online activity.
+---
 
-It determines who can access, use, or share this data.
+## What is Privacy?
 
-Privacy vs. Security
-Privacy: Control over personal data access and use.
+- **Control over personal information** such as names, emails, and online activity  
+- Determines who can **access, use, or share** your data
 
-Security: Protecting data from unauthorized access and cyber threats.
+---
 
-Important Privacy Laws
-General Data Protection Regulation (GDPR) – 2016
-Applies to companies worldwide handling EU residents’ data.
-Example: Facebook must follow GDPR rules for EU users.
+## Privacy vs. Security
 
-California Consumer Privacy Act (CCPA) – 2018
-Protects California residents’ data rights.
-Example: Google complies with CCPA for users in California.
+| Aspect   | Description                                     |
+|----------|------------------------------------------------|
+| **Privacy** | Control over who accesses and uses data       |
+| **Security**| Protects data from unauthorized access & threats |
 
-Global Compliance
-Organizations must follow privacy laws based on where their users live.
+---
 
-This ensures proper handling of personal data across regions.
+## Important Privacy Laws
 
-Risks of Non-Compliance
-Heavy fines (millions of dollars or euros)
+- **General Data Protection Regulation (GDPR) – 2016**  
+  Applies globally to companies handling EU residents’ data  
+  _Example:_ Facebook complies with GDPR for EU users
 
-Legal actions and lawsuits
+- **California Consumer Privacy Act (CCPA) – 2018**  
+  Protects California residents’ data rights  
+  _Example:_ Google follows CCPA rules for California users
 
-Loss of customer trust and reputation damage
+---
 
-Summary
+## Global Compliance
 
-Privacy lets people control their data.
+- Organizations must follow privacy laws based on where their users live  
+- Ensures responsible data handling across different regions
 
-Security protects data but isn’t enough alone.
+---
 
-Laws like GDPR and CCPA enforce responsible data use.
+## Risks of Non-Compliance
 
-Compliance avoids penalties and builds trust.
+- ⚠️ Heavy fines (up to millions of dollars or euros)  
+- ⚠️ Legal actions and lawsuits  
+- ⚠️ Loss of customer trust and damage to reputation
+
+---
+
+## Summary
+
+- Privacy gives people control over their personal data  
+- Security protects data but doesn’t guarantee privacy alone  
+- Laws like GDPR and CCPA enforce responsible data use  
+- Compliance helps avoid penalties and build trust
+
+---
+
+
+
