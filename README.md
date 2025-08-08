@@ -168,79 +168,7 @@ The **CIA Triad** defines the three core goals to protect information systems:
 | Integrity       | Ensure data accuracy       | Lab results remain unchanged unless valid.|
 | Availability    | Keep systems accessible    | Hospital systems operate without downtime.|
 
-# Pathway to Professional Growth in Cybersecurity
 
-This guide addresses the challenges faced by professionals seeking to enter or advance in cybersecurity without disrupting existing commitments. It highlights cost-effective, flexible online Master’s degree programs and industry certifications from respected institutions. The goal is to provide a clear pathway for acquiring recognized credentials that enhance career prospects globally, especially in Western and Middle Eastern markets.
-
-Part 1: Main Universities & Cybersecurity Master’s Programs
-
-University & Program	MicroMasters Cost (USD)	Remaining Master's Cost (USD)	Total Cost (USD)	Duration (Total)	Job Market Value (West / Middle East)
-RIT (Rochester Institute of Technology, USA)
-🔹 Cybersecurity MicroMasters (edX)
-🔹 MS Cybersecurity (online, credit transfer)	~1,200	~15,840	~17,000	1 year + 2–3 years	⭐⭐⭐⭐⭐ (Top USA, respected in Gulf)
-
-University of Maryland, College Park (USA)
-🔹 Cybersecurity MicroMasters (edX)
-🔹 MEng Cybersecurity (online)	~1,300	~18,000	~19,300	1 year + 2–3 years	⭐⭐⭐⭐ (Trusted by US govt & cyber agencies)
-
-University of London (UK) – MSc Cyber Security (fully online)	N/A	~17,000 (AUD ~$26,000)	~17,000	2–5 years	⭐⭐⭐⭐ (Very strong UK, Middle East)
-
-University of Colorado Boulder (USA)
-🔹 MS Cybersecurity via Coursera	N/A	~17,000	~17,000	2–4 years	⭐⭐⭐⭐ (Strong US market)
-
-Delft University of Technology (Netherlands)
-🔹 Cybersecurity MicroMasters (edX)	~1,350	Varies (EU schools accept credits)	~18,000+	1 year + 2–3 years	⭐⭐⭐⭐ (Respected Europe, Middle East)
-
-Part 2: Recommended Complementary Industry Certifications
-
-University & Program	Complementary Industry Courses & Details
-
-RIT (Rochester Institute of Technology, USA)	- CISSP by ISC2
-Duration: Self-paced; Exam Fee: ~$749
-
-- CompTIA Security+
-Duration: 3-6 months prep; Exam Fee: ~$370
-
-- Cisco CCNA Security (NetAcad)
-Duration: ~4 months; Free course, exam fee ~$300
-
-- IBM Cybersecurity Analyst Professional Certificate (Coursera)
-Duration: ~8 months (5 hrs/week); Cost: Free trial then ~$39/month subscription
-
-University of Maryland, College Park (USA)	- CISSP by ISC2 (same as above)
-
-- Google Cybersecurity Professional Certificate (Coursera)
-Duration: ~6 months (5 hrs/week); Cost: Free trial + ~$39/month subscription
-
-- CompTIA Security+ (as above)
-University of London (UK) – MSc Cyber Security	- CISSP by ISC2 (details above)
-
-- CompTIA Security+
-
-- Cisco CyberOps Associate (NetAcad)
-Duration: ~3 months; Free course, exam fee ~$300
-
-University of Colorado Boulder (USA)	- Google Cybersecurity Professional Certificate (Coursera) (details above)
-
-- IBM Cybersecurity Analyst Professional Certificate (Coursera) (details above)
-
-- CompTIA Security+ (as above)
-Delft University of Technology (Netherlands)	- ISC2 CISSP (Official) (details above)
-
-- Cisco CCNA Security (NetAcad) (details above)
-
-- IBM Cybersecurity Analyst Professional Certificate (Coursera) (details above)
-
-Part 3: Notes
-MicroMasters programs let you earn credits that reduce Master’s cost and duration.
-
-Tuition fees are approximate and may vary due to exchange rates or university policies.
-
-These degrees are fully online and flexible, ideal for working professionals.
-
-Degrees from these universities carry strong global reputations, accepted in the Middle East and Western markets.
-
-Your diploma typically will not indicate “online” — it holds equal value as on-campus degrees.
 
 Complementary certifications like CISSP, CompTIA Security+, Cisco, IBM, and Google boost your practical skills and job marketability.
 
