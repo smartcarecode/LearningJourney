@@ -305,12 +305,50 @@ Non-repudiation typically relies on:
 Non-repudiation is essential for trustworthy and secure digital interactions. It protects businesses, governments, and individuals by ensuring actions are verifiable and cannot be denied.
 
 ---
+# Risk Management in Cybersecurity
 
-## References & Further Reading
+Important concepts to understand how organizations protect their digital assets:
 
-- [NIST Guide to Non-Repudiation (PDF)](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-17.pdf)  
-- [RFC 2828: Internet Security Glossary](https://tools.ietf.org/html/rfc2828)  
-- [Understanding Digital Signatures – DigiCert](https://www.digicert.com/digital-signatures.htm)  
+**1. Asset**  
+Anything valuable that needs protection to keep the organization safe.  
+*Example: Customer data, company computers, or software applications.*
+
+**2. Vulnerability**  
+A weakness or gap in security that could be exploited by a threat.  
+*Example: Using weak passwords or failing to update software regularly.*
+
+**3. Threat**  
+Anything that can cause harm by exploiting a vulnerability.  
+*Example: Hackers, viruses, or phishing emails.*
+
+**4. Risk**  
+The chance that a threat will exploit a vulnerability and cause harm.  
+*Example: The possibility that a hacker will break into an outdated system.*
+
+**5. Risk Assessment**  
+The process of identifying risks, evaluating their likelihood, and potential impact.  
+*Example: Analyzing which systems are most likely to be attacked and what damage could result.*
+
+**6. Using Risk Data**  
+Using information about past incidents and current threats to prioritize security efforts.  
+*Example: Focusing on improving email security after an increase in phishing attacks.*
+
+**7. Collaboration**  
+Different teams working together to manage and reduce risks effectively.  
+*Example: IT working with HR to train employees about safe online behavior.*
+
+**8. Reporting**  
+Communicating clear and actionable information about risks to decision-makers.  
+*Example: Providing monthly security reports to company leadership.*
+
+**9. Monitoring**  
+Continuously observing systems and networks to detect new threats or weaknesses early.  
+*Example: Using security software to track suspicious activity on company computers.*
+
+**10. Improvement**  
+Learning from incidents and regularly updating security measures to stay protected.  
+*Example: Updating security policies after a data breach to prevent future attacks.*
+
 
 ---
 
