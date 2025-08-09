@@ -351,6 +351,30 @@ Learning from incidents and regularly updating security measures to stay protect
 
 
 ---
+# Decision Making Based on Risk Priorities
+
+When managing risks, organizations must carefully evaluate several factors:
+
+**1. Likelihood of the Risk**  
+How likely is the risk to happen?
+
+**2. Impact of the Risk**  
+What would be the severity of the consequences if the risk occurs?
+
+**3. Risk Tolerance**  
+How much risk is the organization willing to accept or ignore?
+
+**4. Location-Specific Risks**  
+- Companies in different places face different risks.  
+- Example: A company in Hawaii worries more about volcanic eruptions.  
+- Example: A company in Chicago focuses on blizzards (severe snowstorms with heavy snow and strong winds that make travel dangerous).
+
+**5. Decision Makers**  
+Executive management and the board of directors decide the organization's risk tolerance.
+
+**6. Consequences of Ignoring Risks**  
+Ignoring serious risks, such as exposing workers to asbestos, can lead to significant legal and financial trouble.
+
 
 > *Contributions, suggestions, and questions are welcome! Feel free to open an issue or pull request.*
 
