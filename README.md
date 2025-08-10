@@ -376,6 +376,127 @@ Executive management and the board of directors decide the organization's risk t
 Ignoring serious risks, such as exposing workers to asbestos, can lead to significant legal and financial trouble.
 
 
+# 🔐 Cybersecurity Incident Terminology for Beginners
+
+Understanding cybersecurity starts with learning the basic terms used to describe digital attacks, weaknesses, and defenses. This guide breaks down common terms in simple language, perfect for beginners or non-technical users.
+
+---
+
+## 📘 Table of Contents
+
+1. [Event](#1-event)
+2. [Incident](#2-incident)
+3. [Threat](#3-threat)
+4. [Zero Day](#4-zero-day)
+5. [Breach](#5-breach)
+6. [Exploit](#6-exploit)
+7. [Intrusion](#7-intrusion)
+8. [Vulnerability](#8-vulnerability)
+9. [Summary Table](#9-summary-table)
+
+---
+
+## 1. 📌 Event
+**Definition:**  
+An activity or action that happens in a computer or network system.
+
+**Example:**  
+Logging into a system, opening a file, or sending an email.
+
+---
+
+## 2. ⚠️ Incident
+**Definition:**  
+An activity that could damage data, systems, or make information unavailable.
+
+**Example:**  
+A virus deletes files, or someone tries to hack into an account.
+
+---
+
+## 3. 🚨 Threat
+**Definition:**  
+A possible danger that could harm systems, people, or organizations.
+
+**Example:**  
+A hacker attempts to steal login information.
+
+---
+
+## 4. 🕳️ Zero Day
+**Definition:**  
+A new security flaw that no one knows about yet, so there’s no fix.
+
+**Example:**  
+Hackers discover a bug in software and use it before the company fixes it.
+
+---
+
+## 5. 🔓 Breach
+**Definition:**  
+When someone gains access to private or personal data without permission.
+
+**Example:**  
+Hackers steal customer credit card numbers from a company’s database.
+
+---
+
+## 6. 🧰 Exploit
+**Definition:**  
+A method or tool used to take advantage of a weakness in a system.
+
+**Example:**  
+Using a bug to bypass login screens and access restricted areas.
+
+---
+
+## 7. 👤 Intrusion
+**Definition:**  
+An attempt to enter a system without authorization.
+
+**Example:**  
+A cybercriminal tries different passwords to break into an account.
+
+---
+
+## 8. 🛠️ Vulnerability
+**Definition:**  
+A weakness or flaw in a system that can be used by attackers.
+
+**Example:**  
+Using outdated software without recent security updates.
+
+---
+
+## 9. 📊 Summary Table
+
+| **Term**        | **Simple Definition**                                       | **Example**                                     |
+|----------------|--------------------------------------------------------------|-------------------------------------------------|
+| **Event**       | Any activity happening in a system                          | Logging in, sending a message                   |
+| **Incident**    | Harmful or suspicious activity                              | A virus deleting files                          |
+| **Threat**      | Possible danger to a system or data                         | Hacker trying to steal data                     |
+| **Zero Day**    | Unknown flaw with no fix yet                                | New bug used by hackers                         |
+| **Breach**      | Unauthorized access to private information                  | Data stolen from a company                      |
+| **Exploit**     | Method used to take advantage of a flaw                     | Bypassing login due to a bug                    |
+| **Intrusion**   | Unauthorized entry attempt                                  | Breaking into a system using password guessing  |
+| **Vulnerability** | Weak point in a system that attackers can use           | Old software without security patches           |
+
+---
+
+## ✅ Want to Learn More?
+
+Explore resources like:
+
+- [NIST Glossary](https://csrc.nist.gov/glossary)
+- [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+---
+
+**Made for beginners and learners 💻**  
+Feel free to fork, contribute, or ask questions via issues or discussions!
+
+
 > *Contributions, suggestions, and questions are welcome! Feel free to open an issue or pull request.*
 
 
