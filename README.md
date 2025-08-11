@@ -843,6 +843,115 @@ This IRP template can be freely used and adapted. Attribution appreciated.
 
 ---
 
+# 🛡️ Domain 2: Incident Response, Business Continuity, and Disaster Recovery Concepts
+
+## 📌 Overview
+
+A **properly staffed and trained Incident Response Team (IRT)** is vital for handling cybersecurity incidents effectively. Teams may be:
+
+- **Leveraged** (from existing staff)
+- **Dedicated** (full-time roles)
+- A **hybrid** (combination of both)
+
+IT professionals often serve as **first responders** and must distinguish between routine IT issues and actual security incidents.
+
+---
+
+## 👥 Typical Incident Response Team (IRT) Composition
+
+Incident Response Teams are **cross-functional**, consisting of individuals from various departments affected by incidents.
+
+### Potential Team Members:
+
+- 🧑‍💼 Senior Management Representatives  
+- 🔐 Information Security Professionals  
+- ⚖️ Legal Representatives  
+- 🗣️ Public Affairs / Communications Personnel  
+- 🛠️ Engineering (System and Network) Representatives  
+
+---
+
+## 🎯 Responsibilities of the Incident Response Team
+
+Team members must be trained on:
+
+- The **incident response plan**
+- **Security awareness and escalation procedures**
+
+### During an incident, team members typically:
+
+- 🔍 Investigate the incident  
+- 📊 Assess damage and impact  
+- 🧪 Collect and preserve evidence  
+- 📝 Report the incident to stakeholders  
+- 🔄 Initiate and oversee recovery efforts  
+- 🛠️ Assist in remediation  
+- 📖 Participate in post-incident analysis (root cause, lessons learned)
+
+---
+
+## 💻 Dedicated Response Teams
+
+Organizations often establish dedicated teams known as:
+
+- **CIRT** — Computer Incident Response Team  
+- **CSIRT** — Computer Security Incident Response Team  
+
+---
+
+## 🧭 Core Responsibilities of CIRTs/CSIRTs
+
+1. 📉 **Damage Assessment**  
+   Determine the scope and severity of the incident.
+
+2. 🔐 **Data Confidentiality**  
+   Assess if any sensitive data was compromised.
+
+3. 🛠️ **Recovery Implementation**  
+   Restore affected systems and mitigate damage.
+
+4. 🔒 **Preventive Measures**  
+   Improve security posture to prevent recurrence.
+
+---
+
+## 🧠 Summary
+
+An effective Incident Response Team is essential for:
+
+- Rapid response and mitigation
+- Maintaining business continuity
+- Minimizing reputational and financial impact
+- Strengthening the organization’s security framework
+
+> _Think of your IRT like a well-trained emergency crew—swift, coordinated, and critical during digital crises._
+
+---
+
+## 📊 Metrics (Sample UI Info)
+
+- **Understanding Rating:** 60  
+- **Progress to Competency:** 39%  
+- **Content Coverage:** 35%  
+- **Current Score:** 0  
+- **Total Score:** -1  
+
+---
+
+## 📄 Legal & Licensing
+
+- [Accessibility Statements](#)  
+- [Privacy Policy](#)  
+- [Cookie Policy](#)  
+- [Terms of Service](#)  
+- [Third-party Licenses](#)
+
+---
+
+© 2025 Certified in Cybersecurity (CC). All rights reserved.
+
+
+
 ## 📬 Contact
 
 For feedback, contributions, or security-related inquiries, open an issue or contact the security team directly.
