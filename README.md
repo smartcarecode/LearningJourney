@@ -706,6 +706,150 @@ Imagine the **billing department** of a company suffers a **complete loss** due 
 
 > **Business continuity planning ensures organizations can respond quickly and effectively to unexpected events, minimizing impact and maintaining service.**
 
+# 🔐 Incident Response Plan (IRP)
+
+## 📄 What is an IRP?
+
+An **Incident Response Plan (IRP)** is a structured, documented strategy that helps organizations detect, manage, and recover from cybersecurity incidents.
+
+### 🎯 Objectives:
+- Minimize business disruption
+- Protect sensitive systems and data
+- Reduce incident impact and recovery time
+- Ensure legal and regulatory compliance
+- Improve response through continuous learning
+
+---
+
+## 🧭 Strategic Alignment
+
+The IRP aligns with the organization’s:
+- **Vision** – Long-term goals and aspirations
+- **Mission** – Core purpose and responsibility
+- **Strategic Objectives** – Business continuity, risk tolerance, and compliance goals
+
+---
+
+## 👥 A Plan for Everyone
+
+This is **not just a technical document**. It’s a **plan that all employees follow**, with:
+- Clear, role-specific responsibilities
+- Communication guidelines
+- Organizational-wide training
+- Executive and cross-functional coordination
+
+---
+
+## 🧰 Core Elements of the IRP
+
+The IRP consists of:
+- 📜 **Policies** – Governance and commitment
+- 🧭 **Procedures** – Step-by-step guidance
+- 🛠️ **Technical tools** – Detection and analysis tools
+- ✅ **Checklists** – Ensure completeness
+- 📢 **Communication protocols** – Manage internal/external information flow
+
+---
+
+# 📌 Common Components of an Incident Response Plan
+
+Organized under four key categories:
+
+---
+
+## 1️⃣ Preparation and Planning
+
+Preparation sets the foundation for a timely and effective response.
+
+- ✅ **Develop a management-approved policy**
+- 🧩 **Identify critical systems and single points of failure**
+- 👨‍🏫 **Train staff on incident response procedures**
+- 👥 **Implement an Incident Response Team (IRT) with defined roles**
+- 📋 **Define roles and responsibilities for all staff**
+- 📢 **Coordinate communication with stakeholders**
+- 📡 **Establish backup communication methods in case of outages**
+
+---
+
+## 2️⃣ Detection and Analysis
+
+Focused on early detection, triage, and investigation.
+
+- 🚨 **Practice incident identification (first response drills)**
+- 🕵️‍♀️ **Monitor all attack vectors** (e.g., endpoints, networks, cloud)
+- 📊 **Analyze using internal logs and threat intelligence**
+- 🧮 **Prioritize response based on severity and business risk**
+
+---
+
+## 3️⃣ Containment, Eradication, and Recovery
+
+These actions limit the scope of an incident and restore services.
+
+- 🔐 **Select an appropriate containment strategy**
+- 🚪 **Isolate compromised systems or user accounts**
+- 👤 **Attempt attacker identification (if possible)**
+- 🧾 **Collect and preserve forensic evidence**
+- 🧾 **Retain critical evidence with proper chain of custody**
+
+---
+
+## 4️⃣ Post-Incident Activities & Continuous Improvement
+
+Learn from each incident and enhance readiness.
+
+- 🗃️ **Standardize incident documentation**
+- 📝 **Document lessons learned from each incident**
+- 🔁 **Conduct retrospectives for all incident phases:**
+  - Preparation
+  - Detection and Analysis
+  - Containment, Eradication, Recovery
+  - Post-Incident Review
+
+---
+
+# 🔄 Incident Response Lifecycle
+
+| **Phase**                          | **Description**                                                             |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| 🧰 **Preparation**                | Establish policies, train staff, set up tools                              |
+| 🔎 **Detection and Analysis**     | Identify and assess incidents                                              |
+| 🛡️ **Containment, Eradication, Recovery** | Limit spread, remove threats, restore systems                   |
+| 📘 **Post-Incident Activity**     | Review, learn, and improve processes                                       |
+
+---
+
+## 📊 Metrics to Track
+
+- 🕒 **Time to Detect**
+- 🚧 **Time to Contain**
+- 🔁 **Time to Recover**
+- 📚 **Lessons Applied to Policy Updates**
+
+---
+
+## 🧠 Best Practices
+
+- 🔄 **Regularly test the IRP** with simulations and tabletop exercises
+- 🎓 **Train all employees**, not just IT/security staff
+- 📁 **Keep documentation current** and version-controlled (Git recommended)
+- 🔐 **Integrate IRP with Business Continuity and Disaster Recovery Plans**
+
+---
+
+## 📎 License
+
+This IRP template can be freely used and adapted. Attribution appreciated.
+
+---
+
+## 📬 Contact
+
+For feedback, contributions, or security-related inquiries, open an issue or contact the security team directly.
+
+---
+
+> 🔧 _Last updated: August 2025_
 
 
 **Made for beginners and learners 💻**  
