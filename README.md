@@ -1555,6 +1555,43 @@ Even if a person has physical access to a device or location, logical controls p
 Logical access controls are a critical component of an organization's security posture. They provide an essential layer of protection by electronically verifying identities and restricting system access to authorized users, complementing physical security measures.
 
 
+# Controls and Risks
+
+Security controls help reduce risks to a level that is acceptable to individuals or organizations. These controls can be **physical**, **administrative**, or a combination of both.
+
+---
+
+## Examples of Controls and Risks
+
+### Seatbelt Example
+
+- **Physical Control:** The seatbelt itself, which physically protects the driver.  
+- **Administrative Control:** Laws that require the use of seatbelts.
+
+Together, these controls reduce the risk of injury while driving.
+
+---
+
+### Bookshelf Example
+
+- **Risk:** A tall bookshelf might topple and hurt someone.  
+- **Administrative Control:** Building codes or regulations requiring the bookshelf to be secured.  
+- **Physical Control:** The strap or bracket that attaches the bookshelf to the wall.
+
+In this case, the administrative and physical controls work together to prevent injury.
+
+---
+
+## Summary
+
+- A **control** reduces risk to an acceptable level.  
+- Controls can be **physical** (tangible measures) or **administrative** (policies, laws, or regulations).  
+- Often, both types of controls are combined to effectively manage risk.
+
+---
+
+*Understanding how controls relate to risks is key to managing safety and security in any environment.*
+
 
 
 
