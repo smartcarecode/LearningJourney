@@ -1324,6 +1324,46 @@ By preparing and distributing these varied documents, organizations can improve 
 
 # Domain 3: Access Control Concepts
 
+# Security Controls
+
+Security controls are safeguards or countermeasures designed to preserve the **Confidentiality**, **Integrity**, and **Availability** of data — collectively known as the **CIA Triad**.
+
+---
+
+## What is a Security Control?
+
+A security control limits access and actions by defining which subjects (users, processes) can interact with which objects (data, resources) under specific rules.
+
+---
+
+## Examples of Security Controls
+
+### Access Control
+
+Access control involves limiting what objects are available to what subjects according to defined policies or rules. It ensures that only authorized users or processes can access certain resources.
+
+### Firewall
+
+A firewall is a network security control that:
+
+- **Blocks unauthorized external access:** Prevents potentially harmful traffic from entering and compromising the internal system or network.
+- **Prevents data leakage:** Stops sensitive internal information from leaving the network and being accessed by unauthorized parties on the internet.
+
+---
+
+## Summary
+
+Security controls are essential tools to maintain the security posture of any system by enforcing the CIA Triad principles:
+
+- **Confidentiality:** Keeping data private.
+- **Integrity:** Ensuring data accuracy and reliability.
+- **Availability:** Making sure data and resources are accessible when needed.
+
+---
+
+*This document provides a brief overview of security controls with a focus on access control and firewalls.*
+
+
 
 
 
