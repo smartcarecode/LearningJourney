@@ -1592,15 +1592,46 @@ In this case, the administrative and physical controls work together to prevent 
 
 *Understanding how controls relate to risks is key to managing safety and security in any environment.*
 
+# Controls Assessments
 
+Effective risk reduction depends on how well a control fits the current situation and adapts to changes in the environment. Assessing controls involves evaluating their appropriateness, effectiveness, and cost relative to the assets being protected.
 
+---
 
+## Example Scenario: Securing an Office Space for Confidential Storage
 
+Imagine an office area being repurposed as a secure storage facility for confidential files. This area has **five doors** that need to be secured before sensitive materials can be stored.
 
+### Key Considerations:
 
+- **Type of Control:**  
+  For maximum security, biometric scanners could be installed on all five doors.
 
+- **Site Assessment:**  
+  A thorough site assessment helps determine:
+  - If all doors require biometric scanners  
+  - Whether some doors can be permanently secured without electronic access  
+  - If doors should be removed and replaced with permanent walls (budget permitting)
 
+- **Cost vs. Value:**  
+  The expense of implementing controls must align with the value and sensitivity of the protected information.
 
+- **Alternative Controls:**  
+  If full biometric access control is unnecessary and auditing entry is not required, simple **deadbolt locks** on all doors might provide sufficient security.
 
+---
 
+## Summary
+
+Control assessments help balance:
+
+- **Security Needs:** What level of protection is required?  
+- **Cost Constraints:** What budget is available for controls?  
+- **Operational Practicality:** What controls make sense given the environment and use case?
+
+The goal is to implement controls that effectively reduce risk without excessive cost or complexity.
+
+---
+
+*Regular assessment and adjustment of controls ensure continued effectiveness as organizational needs and environments evolve.*
 
