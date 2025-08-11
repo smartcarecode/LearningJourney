@@ -1005,6 +1005,47 @@ A strong Business Continuity Plan should include:
 > _Business continuity isn’t just about survival—it’s about resilience, readiness, and responsibility._
 
 ---
+# ⚠️ The Goal of Disaster Recovery
+
+**Disaster Recovery (DR)** refers specifically to restoring the **information technology (IT)** and **communications systems** an organization needs to function after a disruptive event.
+
+### 🔧 Key Objectives:
+
+- Restore IT and communication services during and after a disaster
+- Support the recovery of business operations through technological restoration
+- Transition from disruption back to **last-known reliable operations**
+
+---
+
+## 🆚 Business Continuity vs. Disaster Recovery
+
+| Aspect | Business Continuity | Disaster Recovery |
+|--------|----------------------|-------------------|
+| **Focus** | Maintain critical business functions | Restore IT and communication systems |
+| **Timing** | During the disruption | After the disruption |
+| **Scope** | Organization-wide | Technology-focused |
+| **Goal** | Keep business running | Return to full operational status |
+
+**Note:** While business functions may resume temporarily through workarounds, disaster recovery ensures the full restoration of IT systems that support those functions.
+
+---
+
+## 📘 The Role of the Disaster Recovery Plan (DRP)
+
+The **Disaster Recovery Plan (DRP)** guides emergency response teams through the process of:
+
+1. **Responding** to the incident or disaster
+2. **Restoring** affected systems, applications, and communications
+3. **Recovering** data and configurations
+4. **Returning** the business to normal, reliable operations
+
+Disaster recovery planning steps in **after** the initial business continuity efforts, ensuring that temporary solutions are replaced with full system functionality.
+
+---
+
+## 🎯 End Goal
+
+> To restore **full, reliable operations** of IT and communications infrastructure, enabling the organization to return to its pre-disruption state.
 
 
 
