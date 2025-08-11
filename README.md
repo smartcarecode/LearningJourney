@@ -1523,6 +1523,39 @@ Defense in depth is about building **redundant layers of protection** that addre
 
 *Implementing defense in depth helps organizations manage complex security challenges and protect sensitive information effectively.*
 
+# Logical Access Controls
+
+Logical access controls are **electronic mechanisms** that restrict access to systems, applications, and sometimes even physical assets or areas. Unlike physical access controls, which involve tangible barriers like locks and security guards, logical controls operate in the digital realm to ensure only authorized users gain entry.
+
+---
+
+## What Are Logical Access Controls?
+
+Logical access controls limit who can access resources such as:
+
+- Computer systems  
+- Networks  
+- Applications  
+- Sensitive data  
+
+Even if a person has physical access to a device or location, logical controls prevent unauthorized use of systems or information.
+
+---
+
+## Common Types of Logical Access Controls
+
+- **Passwords:** The most common form of authentication requiring users to provide a secret phrase or combination of characters.  
+- **Biometrics:** System-implemented recognition methods such as fingerprint scanners or facial recognition on smartphones and laptops.  
+- **Badge/Token Readers:** Electronic devices that authenticate users by reading a physical badge or token connected to a system.
+
+---
+
+## Summary
+
+Logical access controls are a critical component of an organization's security posture. They provide an essential layer of protection by electronically verifying identities and restricting system access to authorized users, complementing physical security measures.
+
+
+
 
 
 
