@@ -1635,3 +1635,51 @@ The goal is to implement controls that effectively reduce risk without excessive
 
 *Regular assessment and adjustment of controls ensure continued effectiveness as organizational needs and environments evolve.*
 
+# Role-Based Access Control (RBAC) in the Workplace
+
+Role-Based Access Control (RBAC) assigns access privileges to employees based on their specific roles within an organization. This ensures that individuals can only access the information and systems necessary to perform their job functions.
+
+---
+
+## How RBAC Works
+
+- **Role Assignments:**  
+  Each employee is assigned a role that determines their access level.  
+  - *Example:* Only Human Resources can access personnel files.  
+  - *Example:* Only Finance can access bank accounts.  
+  - *Example:* Managers can access data related to their direct reports and departments.
+
+- **Access Granularity:**  
+  High-level system administrators may have full access, while new employees start with minimal permissions required to perform their tasks.
+
+- **Dynamic Role Management:**  
+  Roles and permissions must be closely monitored and updated as job responsibilities evolve to prevent unauthorized access.
+
+---
+
+## Challenges with RBAC
+
+- **Privilege Creep:**  
+  Occurs when users accumulate permissions beyond what their role requires, often due to temporary access that is never revoked.  
+  - *Example:* A junior employee temporarily acting as a department manager retains elevated permissions after the role change ends.
+
+- **Complexity in Granular Roles:**  
+  Managing multiple roles with different permissions requires careful oversight to ensure accuracy and security.
+
+---
+
+## Best Practices
+
+- **Avoid Copying User Profiles:**  
+  When hiring or changing roles, do not duplicate permissions from existing users. Instead, assign standardized roles with predefined permissions.
+
+- **Standardize Roles:**  
+  Establish clear, standard roles so new employees start with appropriate and consistent access.
+
+- **Regular Monitoring:**  
+  Continuously review and update permissions to prevent privilege creep and maintain security.
+
+---
+
+*Implementing RBAC effectively helps organizations secure sensitive information while providing employees with the access they need to be productive.*
+
