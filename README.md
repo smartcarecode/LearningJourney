@@ -1363,6 +1363,87 @@ Security controls are essential tools to maintain the security posture of any sy
 
 *This document provides a brief overview of security controls with a focus on access control and firewalls.*
 
+# Controls Overview
+
+Access control is often considered the **heart of an information security program**. Security ultimately depends on **who** can access organizational assets (buildings, data, systems) and **what** they can do with that access.
+
+Access controls are not just about restricting access; they also ensure that **authorized subjects** get the **appropriate level of access** while denying unauthorized access.
+
+---
+
+## Core Elements of Access Control
+
+Access control relies on three key components:
+
+- **Subjects**  
+- **Rules**  
+- **Objects**
+
+---
+
+### Subjects
+
+A subject is any **active entity** that requests access to assets. Examples include:
+
+- Users  
+- Processes  
+- Programs  
+- Devices (workstations, smartphones, USB drives)
+
+Subjects initiate requests and must have permissions or clearance to access resources.
+
+---
+
+### Objects
+
+An object is anything a subject attempts to access. Objects are **passive** and respond to requests. Examples include:
+
+- Files, databases  
+- Devices like printers or scanners  
+- Servers or software processes  
+- Physical assets like buildings
+
+Objects have owners who define access permissions, usually enforced by rules.
+
+---
+
+### Rules
+
+Rules define the logic that determines if a subject can access an object and under what conditions. They:
+
+- Compare subject identities and attributes to access policies  
+- Allow or deny access  
+- Specify levels of access (read, write, execute)  
+- May include conditions like time-based access restrictions
+
+Example: Firewall rules allowing traffic from trusted IP addresses.
+
+---
+
+## How Access Control Works
+
+1. A **subject** requests access to an **object**.  
+2. A **rule** evaluates the request based on identity and permissions.  
+3. Access is either granted or denied accordingly.
+
+This framework secures systems by controlling who can do what, and when.
+
+---
+
+## Summary
+
+Access control ensures that organizational resources are protected by:
+
+- Granting the right access to authorized subjects  
+- Denying unauthorized access  
+- Applying consistent policies across systems  
+
+Understanding **subjects**, **rules**, and **objects** is essential for building secure access control models.
+
+---
+
+*Access control is not just about denying access—it’s about enabling the right access at the right time.*
+
 
 
 
