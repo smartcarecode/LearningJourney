@@ -376,6 +376,9 @@ Executive management and the board of directors decide the organization's risk t
 Ignoring serious risks, such as exposing workers to asbestos, can lead to significant legal and financial trouble.
 
 
+
+# 🛡️ Domain 2: Incident Response, Business Continuity, and Disaster Recovery Concepts
+
 # 🔐 Cybersecurity Incident Terminology for Beginners
 
 Understanding cybersecurity starts with learning the basic terms used to describe digital attacks, weaknesses, and defenses. This guide breaks down common terms in simple language, perfect for beginners or non-technical users.
@@ -818,16 +821,6 @@ Learn from each incident and enhance readiness.
 | 📘 **Post-Incident Activity**     | Review, learn, and improve processes                                       |
 
 ---
-
-## 📊 Metrics to Track
-
-- 🕒 **Time to Detect**
-- 🚧 **Time to Contain**
-- 🔁 **Time to Recover**
-- 📚 **Lessons Applied to Policy Updates**
-
----
-
 ## 🧠 Best Practices
 
 - 🔄 **Regularly test the IRP** with simulations and tabletop exercises
@@ -836,15 +829,6 @@ Learn from each incident and enhance readiness.
 - 🔐 **Integrate IRP with Business Continuity and Disaster Recovery Plans**
 
 ---
-
-## 📎 License
-
-This IRP template can be freely used and adapted. Attribution appreciated.
-
----
-
-# 🛡️ Domain 2: Incident Response, Business Continuity, and Disaster Recovery Concepts
-
 ## 📌 Overview
 
 A **properly staffed and trained Incident Response Team (IRT)** is vital for handling cybersecurity incidents effectively. Teams may be:
@@ -928,44 +912,6 @@ An effective Incident Response Team is essential for:
 
 ---
 
-## 📊 Metrics (Sample UI Info)
-
-- **Understanding Rating:** 60  
-- **Progress to Competency:** 39%  
-- **Content Coverage:** 35%  
-- **Current Score:** 0  
-- **Total Score:** -1  
-
----
-
-## 📄 Legal & Licensing
-
-- [Accessibility Statements](#)  
-- [Privacy Policy](#)  
-- [Cookie Policy](#)  
-- [Terms of Service](#)  
-- [Third-party Licenses](#)
-
----
-
-© 2025 Certified in Cybersecurity (CC). All rights reserved.
-
-
-
-## 📬 Contact
-
-For feedback, contributions, or security-related inquiries, open an issue or contact the security team directly.
-
----
-
-> 🔧 _Last updated: August 2025_
-
-
-**Made for beginners and learners 💻**  
-Feel free to fork, contribute, or ask questions via issues or discussions!
-
-
-> *Contributions, suggestions, and questions are welcome! Feel free to open an issue or pull request.*
 
 
 
