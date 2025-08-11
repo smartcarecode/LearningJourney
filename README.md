@@ -1322,6 +1322,12 @@ The size of an organization and the number of people involved in disaster recove
 By preparing and distributing these varied documents, organizations can improve coordination, reduce confusion, and increase the likelihood of a successful recovery.
 
 
+# Domain 3: Access Control Concepts
+
+
+
+
+
 
 
 
