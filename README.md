@@ -1683,3 +1683,81 @@ Role-Based Access Control (RBAC) assigns access privileges to employees based on
 
 *Implementing RBAC effectively helps organizations secure sensitive information while providing employees with the access they need to be productive.*
 
+# Privileged Access Management (PAM)
+
+Privileged Access Management (PAM) is a critical security control that manages and monitors access to highly sensitive systems and data by users with elevated permissions. PAM is designed to reduce the risk of abuse or compromise of privileged accounts, which can cause significant damage when misused—either accidentally or maliciously.
+
+---
+
+## 🔐 What is Privileged Access?
+
+Privileged access refers to special permissions that allow users to:
+- **Create**, **read**, **update**, or **delete** critical data
+- Administer operating systems, databases, and applications
+- Make configuration changes or install software
+- Access highly sensitive environments
+
+These permissions are typically granted to:
+- System administrators
+- Network engineers
+- Database administrators
+- IT support staff
+
+---
+
+## 🧪 Real-World Scenario: ABC, Inc.
+
+ABC, Inc. is a small company with a limited IT team responsible for system administration. To streamline their tasks, IT staff members added their user accounts to the **Domain Admins** group, giving them unrestricted access across all servers and workstations.
+
+One day, while reviewing an email invoice, a team member inadvertently opened a **malicious attachment**. This triggered a **ransomware attack**, which quickly encrypted files across the entire environment—servers, workstations, and backups.
+
+Because these user accounts had continuous, high-level privileges:
+- The malware was able to operate with **Domain Admin** rights.
+- No restrictions or triggers were in place to detect or limit the damage.
+- The organization faced major operational and financial losses.
+
+---
+
+## ⚠️ Problem with Static Privileged Access
+
+Without a PAM solution:
+- Admin accounts are always **"on"** — 24/7, whether in use or not.
+- Access control relies solely on secure logins (e.g., username and password).
+- All routine tasks (like checking email) may be performed under privileged accounts, increasing exposure to threats.
+
+---
+
+## ✅ Just-in-Time Privileged Access
+
+A modern PAM solution enforces **Just-in-Time (JIT)** access, where:
+- Privileges are **granted temporarily**, only when needed.
+- Access is **role-based**, giving users only the permissions required for a specific task.
+- Elevated permissions are removed once the task is complete.
+- Routine tasks are performed under **non-privileged accounts**.
+
+This approach significantly reduces the attack surface and mitigates the impact of malware or insider threats.
+
+---
+
+## 🛡️ Why Privileged Access Management Matters
+
+- **Limits Exposure:** Reduces the amount of time users have elevated permissions.
+- **Minimizes Damage:** Prevents ransomware or attackers from leveraging full admin access.
+- **Improves Accountability:** Tracks and audits privileged access usage.
+- **Supports Compliance:** Meets security standards and regulatory requirements.
+
+---
+
+## 🔄 Best Practices
+
+- Use **least privilege** principles: Only assign access necessary for the task.
+- Enforce **Just-in-Time (JIT)** privilege elevation.
+- Regularly **audit and review** admin roles and activity.
+- Separate day-to-day tasks from admin functions using **dedicated accounts**.
+
+---
+
+*Privileged accounts are high-value targets—protecting them through PAM is essential to maintaining a secure IT environment.*
+
+
+
