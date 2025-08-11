@@ -1445,6 +1445,84 @@ Understanding **subjects**, **rules**, and **objects** is essential for building
 *Access control is not just about denying access—it’s about enabling the right access at the right time.*
 
 
+# Defense in Depth
+
+**Defense in Depth** is a layered security strategy that integrates **people**, **technology**, and **operations** to create multiple barriers protecting an organization's assets. These layers work together to deter or prevent cyberattacks by applying various countermeasures across different points of vulnerability.
+
+---
+
+## What is Defense in Depth?
+
+Defense in depth involves implementing **multiple layers of controls** across various domains of an organization, including:
+
+- Physical access (e.g., buildings, server rooms)  
+- Network and system access  
+- Applications and utilities  
+
+This strategy ensures that if one layer is breached, other layers continue to provide protection.
+
+> *Note: While defense in depth reduces risk, it does not guarantee complete prevention of attacks.*
+
+---
+
+## Examples of Defense in Depth
+
+### Technical Controls
+
+- **Multi-Factor Authentication (MFA):**  
+  Requires a combination of credentials, such as:
+  - Something you **know** (password)  
+  - Something you **have** (verification code sent to a phone)  
+  This layered approach significantly increases security over single-factor authentication.
+
+- **Multiple Firewalls:**  
+  Using several firewalls to segment networks based on trust levels. For example:  
+  - One firewall separates the internet (untrusted network) from the organization's internal network.  
+  - Additional firewalls protect sensitive servers behind stricter rules.
+
+### Physical Controls
+
+- Locked doors restricting access to data centers.
+- Security personnel monitoring entry points.
+- Surveillance cameras and badge access systems.
+
+### Administrative Controls
+
+- Policies that define who is authorized to access sensitive areas or data.
+- Procedures for granting, reviewing, and revoking access permissions.
+
+---
+
+## Applying Defense in Depth to Asset Protection
+
+When protecting assets with different sensitivity levels, organizations often implement multiple overlapping controls:
+
+| Control Type         | Example                                    |
+|----------------------|--------------------------------------------|
+| **Physical Controls** | Locked doors, security guards              |
+| **Logical/Technical** | Firewalls, multi-factor authentication    |
+| **Administrative**   | Access policies, user training             |
+
+For example, accessing data in a data center might require:
+
+1. Physical entry through a locked door  
+2. Network access through controlled firewall rules  
+3. Authorization based on administrative policies  
+
+---
+
+## Summary
+
+Defense in depth is about building **redundant layers of protection** that address diverse risks and vulnerabilities. This layered approach enhances overall security posture by:
+
+- Increasing the difficulty for attackers to breach systems  
+- Reducing the likelihood that a single failure will compromise critical assets  
+- Supporting comprehensive protection across physical, technical, and administrative domains  
+
+---
+
+*Implementing defense in depth helps organizations manage complex security challenges and protect sensitive information effectively.*
+
 
 
 
