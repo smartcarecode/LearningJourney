@@ -2546,6 +2546,150 @@ RBAC simplifies access control by organizing user permissions through roles rath
 ---
 
 
+# 📡 Domain 4: Network Security – Networking
+
+## 📘 Table of Contents
+- [🌐 What is Networking](#-what-is-networking)
+- [🔌 Types of Networks](#-types-of-networks)
+  - [LAN – Local Area Network](#lan--local-area-network)
+  - [WAN – Wide Area Network](#wan--wide-area-network)
+- [📟 Network Devices](#-network-devices)
+  - [Hub](#hub)
+  - [Switch](#switch)
+  - [Router](#router)
+  - [Firewall](#firewall)
+  - [Server](#server)
+  - [Endpoint](#endpoint)
+- [📡 Network Addressing](#-network-addressing)
+  - [MAC Address](#mac-address)
+  - [IP Address](#ip-address)
+- [📐 Protocols and Standards](#-protocols-and-standards)
+  - [Ethernet (IEEE 802.3)](#ethernet-ieee-8023)
+- [🧠 Summary](#-summary)
+- [✅ Recommended Use](#-recommended-use)
+
+---
+
+## 🌐 What is Networking
+
+Networking refers to the practice of connecting two or more computers (or devices) together to share data, information, and resources.
+
+> A network allows communication between devices, whether they're across the room or across the world.
+
+---
+
+## 🔌 Types of Networks
+
+### LAN – Local Area Network
+
+A **Local Area Network (LAN)** connects devices within a limited area such as a home, office, or building.
+
+- Fast internal communication  
+- Easy to maintain  
+- Limited geographical coverage
+
+### WAN – Wide Area Network
+
+A **Wide Area Network (WAN)** connects multiple LANs over long distances.
+
+- Enables global communication  
+- Utilizes leased telecommunication lines  
+- Supports vast geographical coverage
+
+---
+
+## 📟 Network Devices
+
+### Hub
+- Connects multiple devices in a network
+- Broadcasts data to all connected devices
+- Lacks intelligence (no packet routing)
+- Rare in modern enterprise setups
+
+### Switch
+- Connects devices in a network intelligently  
+- Sends data only to intended recipients  
+- Increases bandwidth efficiency  
+- Supports VLANs for segmented communication
+
+### Router
+- Connects multiple networks  
+- Routes data based on IP addresses  
+- Can be wired or wireless  
+- Often connects LANs to the Internet
+
+### Firewall
+- Controls traffic based on rules (ACLs)  
+- Protects networks from unauthorized access  
+- Can be hardware or software-based  
+- Often placed between private network and Internet
+
+### Server
+- Provides resources or services to client devices  
+- Types: Web server, file server, mail server, database server  
+- Secured differently due to critical data hosting  
+- Always connected and accessible by clients
+
+### Endpoint
+- Any device that communicates on a network  
+- Examples: desktops, laptops, smartphones, tablets  
+- Can be clients or servers  
+- Common entry points for cyber threats
+
+---
+
+## 📡 Network Addressing
+
+### MAC Address
+- Stands for Media Access Control Address  
+- Unique identifier for network interfaces  
+- Example: `00-13-02-1F-58-F5`  
+- No two devices on the same network can share a MAC
+
+### IP Address
+- Logical address for identifying devices  
+- IPv4 Example: `192.168.1.1`  
+- IPv6 Example: `2001:db8::f:0:1`  
+- Facilitates routing across and within networks
+
+---
+
+## 📐 Protocols and Standards
+
+### Ethernet (IEEE 802.3)
+- Standard for wired networking  
+- Defines data transmission format and timing  
+- Supports interoperability between devices  
+- Foundational protocol in LAN environments
+
+---
+
+## 🧠 Summary
+
+To establish **secure and effective communication**, it is essential to understand:
+
+- The **types of networks** (LAN, WAN)
+- The **roles of core network devices**
+- **MAC and IP addressing**
+- Communication protocols like **Ethernet**
+- Network **security fundamentals** like firewalls and endpoints
+
+Mastery of these areas builds a solid foundation for any networking or cybersecurity professional.
+
+---
+
+## ✅ Recommended Use
+
+This repository is great for:
+
+- 📚 Cybersecurity or CompTIA Security+ study notes  
+- 🧠 Beginner IT and networking tutorials  
+- 🛠️ Team onboarding or internal documentation  
+- 🧾 Reference material for classroom or self-learning
+
+---
+
+> ✍️ Feel free to fork, clone, and enhance this documentation for your own use. Contributions are welcome!
 
 
 
