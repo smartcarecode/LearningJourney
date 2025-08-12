@@ -2452,6 +2452,49 @@ Access decisions are based on pre-defined **security labels** assigned to users 
 
 ---
 
+# 🏢 Mandatory Access Control (MAC) in the Workplace
+
+**Mandatory Access Control (MAC)** in workplace environments refers to a centralized and systematic approach to defining and enforcing access rules. In this model, access to data and systems is **not granted based on individual discretion**, but rather by **predefined security policies** often dictated by organizational or governmental standards.
+
+---
+
+## 🔐 How MAC Works in the Workplace
+
+- Access is determined **by asset owners or administrators**, not end-users.
+- **Employees must meet specific criteria** (e.g., security clearance) to gain access to certain resources or areas.
+- These policies are often **uniform across departments** or entire organizations.
+- Individuals **cannot grant access** to others based on personal judgment.
+
+---
+
+## 🛡️ Example Scenario
+
+At a **government agency**, access to classified documents or secure locations may require a **Top Secret clearance**. This clearance is granted only through formal processes and is **not influenced by personal relationships or requests**. The system enforces MAC uniformly, denying access automatically to anyone who doesn’t meet the required clearance level.
+
+---
+
+## 🧩 Integration with Other Controls
+
+MAC in the workplace is often used alongside:
+
+- **Separation of Duties (SoD):** Ensures that individuals only have access to what they need for their specific job responsibilities.
+- **Role-Based Access Control (RBAC):** Helps streamline access assignments by associating permissions with roles instead of individuals.
+
+This layered security approach ensures employees do not have access to sensitive information that does not pertain to their duties, reducing risk and supporting compliance with internal policies and external regulations.
+
+---
+
+## ✅ Key Benefits of MAC in Organizations
+
+- Prevents unauthorized data exposure
+- Centralized control over permissions
+- Ideal for high-security environments
+- Reduces the likelihood of human error in access decisions
+- Enhances compliance with regulations and audit requirements
+
+---
+
+
 
 
 
