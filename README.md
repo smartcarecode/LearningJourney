@@ -2312,6 +2312,40 @@ Motion detectors (infrared, microwave, laser), vibration sensors, and strain-sen
 
 ---
 
+# 🔐 Logical Access Controls
+
+Logical access controls are **electronic security mechanisms** used to manage access to digital systems, applications, data, and in some cases, even physical assets. Unlike physical access controls, which restrict physical entry to locations or objects, logical access controls govern who can interact with **digital resources**, and how.
+
+---
+
+## 💻 What Are Logical Access Controls?
+
+Logical access controls help **restrict unauthorized users** from accessing information systems, even if they already have physical access to the device or environment. These controls work by **verifying identity and enforcing access rules** through electronic means.
+
+---
+
+## 🛠️ Common Types of Logical Access Controls
+
+### 🔑 Passwords
+The most basic and widely used form of logical control. Passwords act as a first line of defense by validating user identity. Strong password policies, complexity requirements, and periodic changes are key components of secure password implementation.
+
+### 🧬 Biometrics
+Biometric systems authenticate users based on **unique physical or behavioral traits** such as fingerprints, facial recognition, iris scans, or voice patterns. Commonly implemented on smartphones, laptops, and high-security systems.
+
+### 🪪 Badge or Token Readers
+Badge or token-based systems use **smart cards, proximity badges, or USB tokens** that interface with a system to grant access. These are typically paired with PINs or biometric verification for **multi-factor authentication (MFA)**.
+
+---
+
+## 🔐 Logical vs. Physical Access Controls
+
+| Access Control Type | Description | Examples |
+|---------------------|-------------|----------|
+| **Physical**         | Restricts physical access to locations or assets | Security guards, doors, fences, gates |
+| **Logical**          | Restricts access to systems and data | Passwords, biometrics, access tokens |
+
+
+---
 
 
 
