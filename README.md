@@ -3193,6 +3193,66 @@ Using these tools together makes it **much harder for attackers** to get in and 
 
 ---
 
+# 🛡️ Preventing Threats in IT Security
+
+There is no single solution that protects against all threats. However, following best practices can reduce risk significantly.
+
+---
+
+## 🔄 Patch Management
+
+> _"Patch early, patch often."_
+
+- Keep all systems and applications **up to date**
+- Apply vendor patches for **bugs and vulnerabilities**
+- Use **automated patch management tools** to ensure timely updates
+
+---
+
+## 🔍 Intrusion Detection & Prevention Systems (IDS/IPS)
+
+### 🔎 Intrusion Detection System (IDS)
+- **Monitors network/system traffic**
+- Sends alerts on suspicious activity
+- Types:
+  - Network-based (NIDS)
+  - Host-based (HIDS)
+
+### 🚫 Intrusion Prevention System (IPS)
+- **Placed inline** with traffic flow
+- Blocks threats **before they reach targets**
+- Commonly integrated with modern firewalls
+- Types:
+  - Network-based (NIPS)
+  - Host-based (HIPS)
+
+---
+
+## 🔥 Firewalls
+
+### 🔐 What They Do:
+- Enforce security policies by filtering traffic based on rules
+- Used to segment and protect network zones
+
+### 🧱 Types:
+- **Network-based firewalls**: Protect entire networks
+- **Host-based firewalls**: Protect individual systems
+
+### 🆚 Traditional vs Next-Gen Firewalls
+
+| Traditional Firewall         | Next-Generation Firewall (NGFW)     |
+|-----------------------------|--------------------------------------|
+| IP address and port filtering | Application-layer inspection (L7)  |
+| Basic VPN and web proxy     | Anti-bot, FaaS, integrated IAM       |
+| Separate IDS/IPS             | Built-in IDS/IPS                     |
+| Static rules                 | Dynamic, identity-based rules       |
+
+```yaml
+# Where to place firewalls:
+- Internet Gateway
+- Internal network zones (sensitive systems)
+- DMZ for public-facing services
+
 > ✍️ Feel free to fork this content, add your own examples, or build a beginner-friendly cyber toolkit!
 
 
