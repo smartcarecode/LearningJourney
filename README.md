@@ -2146,10 +2146,57 @@ A common pitfall in access provisioning is **copying existing user profiles** wh
 | 🔄 Periodic reviews | Regularly review roles and access for accuracy |
 
 ---
+# 🏢 Physical Security Controls
 
-
+Physical security controls are tangible mechanisms designed to **prevent, monitor, and detect unauthorized physical access** to systems, facilities, and assets. These controls protect both the people within a facility and the physical infrastructure essential for business operations.
 
 ---
+
+## 🔑 What Are Physical Security Controls?
+
+Physical security controls include any physical devices or measures that restrict or regulate access to a location or hardware. Common examples include:
+
+- Security guards  
+- Fences and gates  
+- Motion detectors  
+- Locked doors and windows  
+- Lighting systems  
+- Cable locks and laptop locks  
+- Access badges and swipe cards  
+- Guard dogs  
+- Surveillance cameras  
+- Mantraps and turnstiles  
+- Alarm systems  
+
+---
+
+## 🎯 Why Are Physical Security Controls Important?
+
+The primary goal of physical security controls is to **protect personnel safety** first and foremost, followed by safeguarding physical and technological assets such as computers, servers, and network equipment.
+
+Key objectives include:
+
+- Preventing theft or tampering with critical hardware  
+- Ensuring only authorized individuals enter secure areas  
+- Detecting unauthorized access attempts in real time  
+- Maintaining a safe environment for employees and visitors  
+
+Physical security controls are foundational to a holistic security strategy, complementing cybersecurity and administrative controls to provide comprehensive protection.
+
+---
+
+## 🔄 Summary
+
+| Aspect              | Description                                        |
+|---------------------|--------------------------------------------------|
+| **Controls**        | Physical devices and mechanisms                    |
+| **Purpose**         | Protect people and physical assets                 |
+| **Examples**        | Guards, cameras, locks, badges, alarms             |
+| **Benefit**         | Prevent unauthorized access and enhance safety    |
+
+---
+
+
 
 
 
