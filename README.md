@@ -2344,6 +2344,61 @@ Badge or token-based systems use **smart cards, proximity badges, or USB tokens*
 | **Physical**         | Restricts physical access to locations or assets | Security guards, doors, fences, gates |
 | **Logical**          | Restricts access to systems and data | Passwords, biometrics, access tokens |
 
+---
+
+# 🔐 Discretionary Access Control (DAC)
+
+**Discretionary Access Control (DAC)** is a type of access control policy that allows the **owner of an object** (such as a file or folder) to determine who is allowed access and what type of access they are granted. DAC is widely used across various operating systems and platforms.
+
+DAC systems rely on the **discretion of the owner** to manage access permissions, making it flexible but also less secure and harder to scale than other models such as Mandatory Access Control (MAC).
+
+---
+
+## 🛠️ Key Features of DAC
+
+- Users (subjects) can **grant permissions** to other users.
+- Permissions can include:
+  - 🔄 Read
+  - ✏️ Write
+  - ▶️ Execute
+- Users may also:
+  - Pass information to other users or systems.
+  - Modify security attributes of owned objects.
+  - Grant privileges to other users for owned resources.
+  - Set access permissions for newly created objects.
+
+---
+
+## 📊 DAC Access Control Table Example
+
+|            | Excel File 1         | Excel File 2         |
+|------------|----------------------|----------------------|
+| **Aidan**  | Read, Write, Execute | Read, Execute        |
+| **Steve**  | Read                 | Read, Write          |
+
+### 📋 Aidan's Capability List
+- Excel File 1: Read, Write, Execute
+- Excel File 2: Read, Execute
+
+### 📋 Access Control List (ACL) for Excel File 1
+- Aidan: Read, Write, Execute
+- Steve: Read
+
+---
+
+## 🖥️ Real-World Examples
+
+- **Operating Systems**: UNIX/Linux, Windows, and macOS implement DAC by allowing users to set file and folder permissions.
+- **Cloud Storage**: In platforms like Google Drive, Dropbox, or OneDrive, users can share a file or folder and specify view/edit permissions.
+- **Low-Tech DAC**: A temporary visitor badge issued at a front desk — granted at the discretion of the receptionist.
+
+---
+
+## ⚠️ Limitations of DAC
+
+- **Not Scalable**: Each object’s permissions are managed by individual users, leading to potential chaos in large organizations.
+- **Hard to Audit**: Tracing the origin of permissions or resolving access issues can be complex.
+- **Vulnerable to Insider Threats**: Since users can grant access freely, sensitive information might be shared inappropriately.
 
 ---
 
