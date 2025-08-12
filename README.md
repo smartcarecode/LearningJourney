@@ -2254,6 +2254,64 @@ Biometrics are highly accurate but often costly to implement and maintain. Priva
 
 ---
 
+# Monitoring
+
+Monitoring is a crucial component of any physical security program. It encompasses a variety of tools and processes designed to deter, detect, record, and respond to unauthorized activities within an organization’s physical environment.
+
+---
+
+## 🔎 Key Monitoring Components
+
+### Cameras  
+Surveillance cameras are commonly integrated into security systems and centrally monitored. They serve as a deterrent, help detect suspicious activities when paired with sensors, and provide forensic evidence if incidents occur. Cameras are particularly valuable in hard-to-access locations or areas requiring a detailed activity record.
+
+---
+
+### 📜 Logs  
+Physical security logs document events such as visitor sign-ins, access attempts, or system-generated entries. Logs support business and legal requirements, helping with compliance and forensic investigations. Protecting logs from manipulation and unauthorized access is essential, and organizations should implement policies for regular review and retention.
+
+---
+
+### 🚨 Alarm Systems  
+Alarm systems alert personnel to unexpected access attempts or emergencies. Examples include:  
+- Door/window alarms triggered by forced entry  
+- Fire alarms activated by smoke or heat sensors  
+- Panic buttons that notify security or police immediately  
+
+These systems act as early warnings to prevent damage or respond rapidly.
+
+---
+
+### 👮 Security Guards  
+Security personnel provide a physical presence that deters unauthorized entry and assists in monitoring access points. Guards can prevent tailgating (unauthorized following through secured doors) and verify identities when needed, complementing technological controls.
+
+---
+
+### 🌐 Additional Sensors  
+Motion detectors (infrared, microwave, laser), vibration sensors, and strain-sensitive cables enhance perimeter security by detecting intrusion attempts such as fence climbing or unauthorized entry across open spaces.
+
+---
+
+## 📝 Log Management and Anomalies
+
+- Logs must be retained according to legal and business requirements, often dictated by regulations like PCI DSS or federal laws.  
+- Excessive logging can overwhelm resources; organizations should strike a balance.  
+- Log anomalies (e.g., missing timestamps, unexpected lockouts) are often the first indicators of security incidents and must be actively monitored.  
+
+---
+
+## 📚 Summary Table
+
+| Monitoring Component | Purpose                              | Benefits                           | Challenges                         |
+|----------------------|------------------------------------|----------------------------------|----------------------------------|
+| Cameras              | Surveillance & evidence collection | Deterrent & forensic record      | Privacy concerns, cost           |
+| Logs                 | Event documentation                 | Compliance & investigations      | Data volume, protection          |
+| Alarm Systems        | Alert on unauthorized/ emergency   | Rapid response                   | False alarms, maintenance       |
+| Security Guards      | Physical deterrence & verification | Human judgment & intervention   | Staffing cost, coverage limits   |
+| Motion Sensors       | Detect perimeter intrusions        | Early warning & detection        | Environmental sensitivity        |
+
+---
+
 
 
 
