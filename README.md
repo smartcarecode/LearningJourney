@@ -1954,17 +1954,7 @@ Privileged accounts are essential for operating and securing systems, but they a
 
 ---
 
-## 📄 License
 
-This documentation is provided under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributions
-
-Have suggestions or use cases to share? Open an [issue](https://github.com/your-org/your-repo/issues) or submit a pull request.
-
----
 
 
 
