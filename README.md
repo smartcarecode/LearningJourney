@@ -1954,6 +1954,107 @@ Privileged accounts are essential for operating and securing systems, but they a
 
 ---
 
+# 🔄 Separation of Duties (SoD)
+
+**Separation of Duties (SoD)**—also known as **Segregation of Duties**—is a fundamental principle of security and internal controls. It ensures that no single individual has complete control over a critical or high-risk transaction or process.
+
+> ⚠️ SoD prevents errors, reduces the risk of fraud, and increases accountability by dividing responsibilities among multiple people.
+
+---
+
+## 🔑 What is Separation of Duties?
+
+The core concept of SoD is to **split a task or process into multiple steps**, each requiring a **different individual**. This ensures that sensitive operations are not executed from start to finish by one person, protecting against abuse of power and operational mistakes.
+
+---
+
+## 📚 Real-World Examples
+
+### 🧾 Invoice Approval
+- **Employee A** submits an invoice (e.g., for reimbursement or vendor payment)
+- **Manager B** must approve the invoice before payment is issued
+
+This separation:
+- Prevents self-authorization of payments
+- Adds a review layer to detect errors or fraud
+
+---
+
+### ⚙️ Change Management
+- **User A** submits a system configuration change request
+- The request goes through:
+  - **Technical review**
+  - **Management approval**
+- Only then is the change implemented
+
+---
+
+### 🔐 Dual Control (Two-Key Access)
+Used in **banking or high-security scenarios**:
+- A vault has **two separate locks**
+- **Person A** knows one combination
+- **Person B** knows the other
+- 🔒 **Both must be present to access the vault**
+
+This ensures no single person can gain access alone.
+
+---
+
+## 👥 Two-Person Integrity (TPI)
+
+The **Two-Person Rule** is a variation of SoD applied to physical security and high-risk operations.
+
+### 🚨 How It Works:
+- At least **two individuals** must be present in a secure or sensitive area
+- Access control systems may **deny entry to a single person**
+- Used to:
+  - Prevent insider threats
+  - Ensure emergency support (e.g., medical issues)
+
+### 🏥 Life Safety & Insider Threat Protection
+- In critical areas (e.g., data centers, server rooms, control rooms):
+  - Ensures someone is always available to assist in an emergency
+  - Deters malicious activity that might occur when an individual is alone
+
+---
+
+## ⚠️ Collusion Risk
+
+While SoD is effective, it's **not foolproof**. Two individuals could **collaborate maliciously** to override the protections SoD provides.
+
+> This type of threat is known as **collusion**.
+
+Mitigating collusion requires:
+- Regular **audits**
+- Strong **monitoring**
+- Well-defined **incident response plans**
+
+---
+
+## ✅ Benefits of Separation of Duties
+
+| Benefit                 | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| 🔐 Risk Reduction        | Prevents fraud and insider threats                                          |
+| 🧾 Error Detection       | Adds checkpoints that catch mistakes early                                   |
+| 👥 Accountability        | Clearly defines roles and responsibilities                                   |
+| 📊 Compliance Support    | Meets regulatory requirements in industries like finance, healthcare, etc. |
+
+---
+
+## 🛠️ Related Controls
+
+- **Role-Based Access Control (RBAC)**  
+  Assigns access based on clearly defined roles
+
+- **Least Privilege Principle**  
+  Users only have access to what they need—nothing more
+
+- **Privileged Access Management (PAM)**  
+  Secures and monitors the use of elevated privileges
+
+---
+
 
 
 
