@@ -1,89 +1,101 @@
-Career Transition: Healthcare to Cybersecurity & Data Analysis.
+# Career Transition: Healthcare to Cybersecurity & Data Analysis
 
-Hello! 
+---
 
-I’m a healthcare professional transitioning into Cybersecurity and Data Analysis. With over 7 years of experience in the healthcare sector, I’ve seen firsthand how critical it is to protect sensitive patient information and ensure the integrity of healthcare systems. This inspired me to combine my healthcare background with technical skills that help safeguard data and support smarter, more secure decision-making.
+## Hello!
 
-My Aims & Objectives
+I’m a healthcare professional transitioning into **Cybersecurity and Data Analysis**.  
+With over 7 years of experience in healthcare, I’ve witnessed how crucial it is to protect sensitive patient information and maintain the integrity of healthcare systems. This inspired me to combine my healthcare background with technical skills to safeguard data and enable smarter, more secure decision-making.
 
-Aim: 
+---
 
-To become a well-rounded Cybersecurity and Data Analysis professional focusing on data protection, privacy, and ethical use — especially within healthcare.
+## 🎯 My Aims & Objectives
 
-Objectives:
+### Aim
 
-Build a solid foundation in cybersecurity principles, tools, and incident response.
+Become a well-rounded Cybersecurity and Data Analysis professional specializing in data protection, privacy, and ethical use — especially within healthcare.
 
-Develop strong practical skills in data analysis, visualization, and working with real-world datasets.
+### Objectives
 
-Earn industry-recognized certifications such as the Google Cybersecurity Certificate and ISC2 Certified in Cybersecurity (CC).
+- Build a solid foundation in cybersecurity principles, tools, and incident response.
+- Develop practical skills in data analysis, visualization, and handling real-world datasets.
+- Earn industry-recognized certifications such as the Google Cybersecurity Certificate and ISC² Certified in Cybersecurity (CC).
+- Create a portfolio of hands-on projects combining security and data analysis in real-world scenarios.
+- Secure a role that leverages both technical knowledge and healthcare experience to drive innovation and protection.
 
-Create a portfolio of hands-on projects that combine security and data analysis in real-world scenarios.
+---
 
-Secure a role that integrates both technical knowledge and industry experience to drive innovation and protection.
+## 🛤️ My Learning Roadmap (Flexible & Step-by-Step)
 
-My Learning Roadmap (Flexible & Step-by-Step):
+- Establish a **GitHub presence** to organize study notes, labs, and projects.
+- Learn foundational topics: computer systems, networking, and cybersecurity basics.
+- Gain hands-on experience via labs and simulations (SOC analysis, Linux, threat detection, etc.).
+- Build data analysis skills using **Excel, SQL**, and visualization tools like **Google Looker Studio**.
+- Complete certification training to strengthen credibility and confidence.
+- Develop portfolio projects that combine cyber defense and data storytelling, with a focus on healthcare.
+- Prepare for job applications with a polished resume, updated LinkedIn, and interview readiness.
 
-Establish a GitHub presence to organize study notes, labs, and projects.
+---
 
-Learn foundational topics including computer systems, networking, and cybersecurity basics.
+## 📂 About This Repository
 
-Gain hands-on experience through labs and simulations (SOC analysis, Linux, threat detection, etc.).
+This is a personal space to:
 
-Build data analysis skills in Excel, SQL, and visualization using tools like Google Looker Studio.
+- Track my progress.
+- Share knowledge.
+- Document real skills gained over time.
 
-Complete certification training to strengthen credibility and confidence.
+It reflects a long-term commitment to learning and making a meaningful impact by combining healthcare expertise with modern technology.
 
-Develop portfolio projects combining cyber defense and data storytelling, especially focusing on healthcare.
+---
 
-Prepare for job applications with a polished resume, updated LinkedIn, and interview readiness.
+## 🛡️ ISC² Candidate – Certified in Cybersecurity (CC) Preparation
 
-This repository is a personal space to track progress, share knowledge, and document real skills gained over time. It reflects a long-term commitment to learning and creating meaningful impact through the combination of healthcare experience and modern technology.
+I’m currently registered as an **ISC² Candidate** as part of the **One Million Certified in Cybersecurity** initiative.  
+This program offers free training and an exam attempt to help newcomers start their cybersecurity journey.
 
-Thanks for visiting! Feel free to explore my work, share feedback, or connect professionally.# LearningJourney
-From healthcare to cybersecurity, focused on securing patient data.
+### What I’m Learning
 
-🛡️ ISC² Candidate – Certified in Cybersecurity (CC) Preparation
-I am currently registered as an ISC² Candidate as part of the One Million Certified in Cybersecurity initiative. This program provides free training and a free exam attempt to help individuals start their journey into cybersecurity.
+- **Security Principles:** Threats, vulnerabilities, CIA triad, risk concepts.
+- **Access Control:** Authentication, authorization, identity management.
+- **Network Security:** Network devices, firewalls, secure communications.
+- **Security Operations:** Monitoring, incident response, disaster recovery.
+- **Software Development Security:** Secure coding practices and common vulnerabilities.
 
-I'm actively studying to earn the Certified in Cybersecurity (CC) certification — a globally recognized entry-level credential that covers the basics of information security.
+### My Goals
 
-🔍 What I’m Learning:
-Security Principles – Threats, vulnerabilities, CIA triad, risk concepts
+- Complete the **Certified in Cybersecurity (CC)** training and pass the certification exam.
+- Build foundational skills for a cybersecurity career.
+- Apply knowledge through hands-on labs and open-source projects.
+- Document my learning journey and share useful resources with the community.
 
-Access Control – Authentication, authorization, and identity management
+---
 
-Network Security – Network devices, firewalls, secure communication
+## 🌟 Progress Update: Today’s Learning Achievement
 
-Security Operations – Monitoring, incident response, disaster recovery
+Today, I focused on deeply understanding the **CIA Triad** — the cornerstone of information security:  
+**Confidentiality, Integrity, and Availability.**
 
-Software Development Security – Secure coding and common vulnerabilities
+I’m excited to have grasped these concepts clearly and am committed to building on this knowledge daily. This milestone marks an important step toward becoming a skilled cybersecurity professional.
 
-🎯 My Goals:
-Complete the CC training and pass the certification exam
+Continuous learning and growth remain my priorities. I’m motivated to keep pushing forward with discipline and passion.
 
-Build foundational skills for a cybersecurity career
+---
 
-Apply knowledge through hands-on labs and open-source projects
+## 📌 Useful Links
 
-Document my learning journey and share useful resources
+- [ISC² Certified in Cybersecurity (CC) Official Page](https://www.isc2.org/Certifications/CC)
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
+- [GitHub Learning Lab](https://lab.github.com/)
 
-📂 About This Repository:
-This GitHub repository will include:
+---
 
-Notes and summaries from the official training
+Thanks for visiting! Feel free to explore my work, share feedback, or connect professionally.
 
-Cheat sheets and visual guides
+---
 
-Sample practice questions
+#LearningJourney #HealthcareToCybersecurity #DataAnalysis #Cybersecurity #CareerTransition
 
-Scripts and walkthroughs for security tools and labs
-
-Links to useful articles and videos
-
-📌 Want to learn more?
-
-ISC² Certified in Cybersecurity (CC)
 
 # ISC2 NOTES
 
