@@ -105,6 +105,88 @@ I am eager to grow, learn, and contribute to building safer digital environments
 
 ---
 
+# 🛤️ My Cybersecurity Career Development Roadmap & Certification Plan
+
+---
+
+## 🎓 Current Focus: Building a Strong Foundation with ISC² Certified in Cybersecurity (CC)
+
+I am currently deeply engaged in preparing for the **ISC² Certified in Cybersecurity (CC)** certification, chosen for its comprehensive and industry-respected introduction to cybersecurity fundamentals. This certification covers essential topics like security principles, network security, access control, and incident response.
+
+- I dedicate focused daily time to study, balancing my professional responsibilities and personal life.
+- I actively apply theoretical knowledge through labs and simulations to develop real-world skills.
+- I welcome challenges as opportunities to learn and grow steadily.
+- This certification will validate my readiness to contribute effectively in cybersecurity roles.
+
+[Learn more about ISC² CC](https://www.isc2.org/Certifications/CC)
+
+---
+
+## 🎯 Next Steps: Expanding Skills with Additional Certifications
+
+### Google Cybersecurity Certificate
+
+Next, I plan to complete the **Google Cybersecurity Certificate** to build practical skills in securing cloud environments and modern IT infrastructures.
+
+### Cisco CyberOps Associate Certification
+
+Following that, I will pursue **Cisco CyberOps Associate**, focusing on Security Operations Center (SOC) roles, real-time threat detection, and incident response.
+
+### CompTIA Security+ and Advanced Certifications
+
+Finally, I aim to earn **CompTIA Security+** and further specialize with **CySA+** and **PenTest+** certifications to develop a broad and competitive cybersecurity skill set.
+
+---
+
+## 🔍 Core Areas of Expertise Under Development
+
+- Security Principles & Frameworks: Threats, vulnerabilities, CIA triad (Confidentiality, Integrity, Availability).
+- Network Security: Firewalls, IDS/IPS, VPNs, and secure communication.
+- Identity & Access Management: Authentication, authorization, and lifecycle management.
+- Security Operations: Monitoring, incident response, disaster recovery.
+- Application Security: Secure coding and vulnerability management.
+
+---
+
+## 📚 Commitment to Balance and Growth
+
+- I carefully manage my time, dedicating consistent study hours outside of my work schedule.
+- I prioritize work, personal well-being, and social activities alongside my learning to maintain a healthy, sustainable balance.
+- This balanced approach helps me stay motivated, focused, and resilient throughout my career transition.
+- I believe continuous improvement comes from steady progress combined with self-care and real-world engagement.
+
+---
+
+## 💻 Practical Experience & Projects
+
+- Building a personal cybersecurity lab environment for hands-on practice.
+- Analyzing network traffic and threat patterns using industry tools.
+- Automating routine security monitoring tasks.
+- Documenting and sharing projects to demonstrate skills and learning.
+
+---
+
+## 🔗 Resources & Tools
+
+- ISC² Certified in Cybersecurity (CC)  
+- Google Cybersecurity Certificate  
+- Cisco CyberOps Associate  
+- CompTIA Security+ and advanced certs  
+- TryHackMe, Hack The Box, SANS Cyber Aces, OWASP
+
+---
+
+## 🤝 Message to Future Employers
+
+I bring a strong commitment to learning, integrity, and adaptability, along with a practical approach to balancing professional growth and personal responsibilities. My background enriches my understanding of the importance of cybersecurity, and I am eager to contribute effectively while continuing to grow.
+
+Thank you for considering my journey—I look forward to opportunities to collaborate and make a meaningful impact.
+
+---
+
+#CybersecurityJourney #ContinuousLearning #WorkLifeBalance #ISC2Candidate #DedicatedLearner #GlobalCybersecurity
+
+
 ## 🌟 Progress Update: Today’s Learning Achievement
 
 Today, I focused on deeply understanding the **CIA Triad** — the cornerstone of information security:  
