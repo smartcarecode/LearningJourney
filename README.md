@@ -74,18 +74,6 @@ As part of the **ISC² One Million Certified in Cybersecurity** initiative, I am
 
 ---
 
-## 🌟 Recent Learning Highlight: Deepening Understanding of the CIA Triad
-
-A key milestone in my journey has been mastering the **CIA Triad** — the foundation of all cybersecurity efforts:
-
-- **Confidentiality:** Ensuring information is only accessible to those who have permission.
-- **Integrity:** Keeping data accurate and trustworthy.
-- **Availability:** Making sure systems and data are accessible when needed.
-
-Fully understanding these concepts helps me appreciate how security measures work together to protect sensitive information, especially in healthcare where the consequences of a breach can be severe.
-
----
-
 ## 🔗 Helpful Resources
 
 - [ISC² Certified in Cybersecurity (CC) Program](https://www.isc2.org/Certifications/CC)
