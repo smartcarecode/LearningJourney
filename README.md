@@ -1757,6 +1757,91 @@ This approach significantly reduces the attack surface and mitigates the impact 
 
 ---
 
+# 🔐 Examples of Least Privilege
+
+This document outlines real-world examples of how the **Principle of Least Privilege (PoLP)** is applied to preserve the **confidentiality**, **integrity**, and **availability** of sensitive data.
+
+> 🛡️ Least Privilege ensures users are granted only the minimum access necessary to perform their job responsibilities—nothing more.
+
+---
+
+## ✅ What is Least Privilege?
+
+The **Principle of Least Privilege** is a security concept that restricts access rights for users, accounts, and computing processes to only those resources absolutely required to perform assigned tasks.
+
+This helps:
+
+- 🔒 Protect **confidential** information from unauthorized access  
+- 🛠️ Maintain **integrity** by preventing unauthorized modification or deletion  
+- 📈 Ensure **availability** by granting necessary access in a controlled way  
+
+---
+
+## 📚 Examples of Least Privilege in Practice
+
+### 💳 Billing Department Access
+- Only billing personnel can **view** consumer financial records.
+- A smaller group is authorized to **edit or delete** that data.
+- Ensures financial data is protected from unauthorized changes.
+
+---
+
+### ⏱️ Time-Based or Temporary Access
+- Users may be given access:
+  - For a **limited time period**
+  - **During business hours** only
+- Useful for contractors, auditors, or temporary project work.
+- Access automatically **expires** when no longer needed.
+
+---
+
+### 📋 Field-Level Access
+- Systems may restrict access to specific **data fields** only.
+- Example: In healthcare, support staff may access **patient contact info**, but **not medical records**.
+- Doctors can only access information for **their assigned patients**.
+- Complies with data protection regulations like **HIPAA (USA)** or GDPR.
+
+---
+
+### 🔁 Role-Based Restrictions
+- Access is granted based on the user's **job role**.
+- Example: Developers may access staging environments but not production.
+- HR personnel can access employee profiles but not payroll systems.
+
+---
+
+## 🔐 Security Controls Supporting Least Privilege
+
+| Control Type           | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 🔑 Role-Based Access    | Permissions assigned based on job function or group                         |
+| ⏰ Time-Based Access    | Temporary or scheduled access windows                                        |
+| 🧱 Field-Level Controls | Limit visibility to specific parts of a dataset                             |
+| 🧍 User Authentication  | Ensure identity using strong passwords and sign-on methods                  |
+| 🔒 Multi-Factor Auth    | Required for users with access to critical or sensitive data                |
+| 🧾 Access Auditing      | All access attempts are logged and reviewed regularly                       |
+
+---
+
+## 🚨 Monitoring and Response
+
+- Systems continuously **monitor access logs** for unauthorized attempts.
+- **Alerts** are triggered automatically if someone tries to access data without proper permissions.
+- Security teams **investigate and record** all incidents.
+- Preventive controls such as **MFA** are enforced for sensitive roles.
+
+---
+
+## ✅ Summary
+
+Implementing Least Privilege:
+
+- Reduces the risk of data breaches
+- Prevents accidental or malicious data manipulation
+- Helps ensure compliance with security and privacy laws
+- Strengthens the overall security posture of the organization
+
+---
 *Privileged accounts are high-value targets—protecting them through PAM is essential to maintaining a secure IT environment.*
 
 
