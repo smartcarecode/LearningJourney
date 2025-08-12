@@ -2054,6 +2054,102 @@ Mitigating collusion requires:
   Secures and monitors the use of elevated privileges
 
 ---
+# 🛡️ Authorized vs Unauthorized Personnel
+
+This document outlines how access control is enforced within secure environments by distinguishing between **authorized** and **unauthorized** personnel. Access decisions are based on **authentication**, **authorization**, and appropriate **provisioning** of user accounts and privileges.
+
+---
+
+## 🔐 Authentication and Authorization
+
+### 🧾 Definitions
+
+- **Authentication**: Verifying the identity of a user (subject).
+- **Authorization**: Determining whether the authenticated user has the rights to perform a specific action or access a specific resource (object).
+
+Once a subject has been authenticated, the system checks its **authorization** before allowing access to the requested resource or action.
+
+---
+
+## 📋 Real-World Examples
+
+### 🔒 Physical Access Example
+When a user scans their **ID badge** at a secure facility entrance:
+
+- The system verifies the **badge ID** against an internal **security matrix**.
+- If **authorized**, the door unlocks.
+- If **unauthorized**, the door remains locked.
+
+### 🗑️ File Deletion Example
+When a user tries to delete a file:
+
+- The file system checks the user's **file permissions**.
+- If **authorized**, the file is deleted.
+- If **unauthorized**, an error is returned and the file remains unchanged.
+
+---
+
+## 👥 User Provisioning Lifecycle
+
+Provisioning users properly is crucial for maintaining a secure access control environment. This involves creating, updating, or removing user accounts and privileges based on employment status and role changes.
+
+### ➕ New Employee Onboarding
+
+- The **hiring manager** submits a request to the **security administrator** to create a new user account.
+- Access levels are assigned based on the employee’s job function.
+- **Additional authorization** is required for elevated access.
+
+### 🔁 Role or Position Change
+
+- When an employee is **promoted or moved**:
+  - New access rights are granted based on the new role.
+  - Old permissions that are no longer relevant are **revoked**.
+- Prevents **privilege creep** and aligns access with job duties.
+
+### ➖ Termination of Employment
+
+- Upon separation:
+  - The user account is **disabled** immediately.
+  - After a grace period (for audit trail retention), the account may be **deleted**.
+  - Access is removed from all **security roles** and **group memberships**.
+
+> ⚠️ Terminated accounts should be disabled immediately to prevent unauthorized access, even if deletion is delayed for audit and forensic purposes.
+
+---
+
+## 🚫 Avoiding Privilege Creep
+
+A common pitfall in access provisioning is **copying existing user profiles** when creating new accounts. This can unintentionally propagate excessive or outdated permissions.
+
+### ❌ Problem:
+- User A is temporarily granted extra access to perform a one-time task.
+- Their account is later copied to create User B.
+- User B now has access they **do not need**, possibly creating a security risk.
+
+### ✅ Solution:
+- Use **standardized roles** and **access templates**.
+- Provision new users based on **defined job roles**, not cloned profiles.
+- Regularly **review and update** permissions to reflect current responsibilities.
+
+---
+
+## ✅ Best Practices Summary
+
+| Practice | Description |
+|---------|-------------|
+| 🔐 Authenticate users | Confirm user identity before allowing access |
+| 📊 Authorize based on roles | Grant only necessary access per job function |
+| 🧑‍💼 Role-based provisioning | Use standardized roles for new accounts |
+| 🧹 Remove unused access | Revoke unnecessary privileges during role changes |
+| ❌ Disable upon exit | Immediately disable accounts when users leave |
+| 🧾 Audit trails | Preserve logs for compliance and investigations |
+| 🔄 Periodic reviews | Regularly review roles and access for accuracy |
+
+---
+
+
+
+---
 
 
 
