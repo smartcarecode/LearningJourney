@@ -2939,4 +2939,137 @@ You don’t need fancy equipment — just smart planning and the right tools. Wh
 
 ---
 
+# 🛡️ Cybersecurity Tools: Detecting and Preventing Threats
+
+This guide explains common tools used to keep networks and devices safe from hackers, viruses, and other threats. Each section is written in **plain language**, perfect for beginners in IT, cybersecurity, or networking.
+
+---
+
+## 📘 Table of Contents
+
+- [🔍 IDS – Intrusion Detection System](#-ids--intrusion-detection-system)
+  - [🖥️ HIDS – Host-based IDS](#️-hids--host-based-ids)
+  - [🌐 NIDS – Network-based IDS](#️-nids--network-based-ids)
+- [🚫 IPS – Intrusion Prevention System](#-ips--intrusion-prevention-system)
+  - [🌐 NIPS – Network-based IPS](#️-nips--network-based-ips)
+  - [🖥️ HIPS – Host-based IPS](#️-hips--host-based-ips)
+- [🧰 SIEM – Security Information and Event Management](#-siem--security-information-and-event-management)
+- [🦠 Antivirus / Antimalware](#-antivirus--antimalware)
+- [🧪 Vulnerability Scanners](#-vulnerability-scanners)
+- [🔥 Firewall](#-firewall)
+- [📋 Summary Table](#-summary-table)
+- [📖 Extended Description](#-extended-description)
+
+---
+
+## 🔍 IDS – Intrusion Detection System
+
+An **Intrusion Detection System (IDS)** is a tool that watches your network or computer to spot **unusual or suspicious activity**. It sends an **alert** if it notices something wrong.
+
+> Think of IDS like a **motion sensor** in a house — it tells you someone is inside but doesn’t stop them.
+
+### 🖥️ HIDS – Host-based IDS
+- Installed directly on one device (like a laptop or server).
+- Watches that device for anything strange (file changes, logins, etc.).
+- Example: OSSEC.
+
+### 🌐 NIDS – Network-based IDS
+- Monitors all traffic flowing through a network.
+- Detects attacks like scanning, unusual traffic, or known malware.
+- Example: Snort.
+
+---
+
+## 🚫 IPS – Intrusion Prevention System
+
+An **Intrusion Prevention System (IPS)** not only detects threats like an IDS, but it also **automatically blocks them**.
+
+> It’s like a **security guard** who not only sees danger but stops it from entering.
+
+### 🌐 NIPS – Network-based IPS
+- Protects the entire network.
+- Stops harmful traffic before it reaches computers.
+- Often works with firewalls.
+
+### 🖥️ HIPS – Host-based IPS
+- Runs on individual devices.
+- Can stop harmful apps or actions right on that machine.
+- Example: Windows Defender with real-time protection.
+
+---
+
+## 🧰 SIEM – Security Information and Event Management
+
+A **SIEM** collects **logs and alerts** from all your security tools (like IDS, firewalls, antivirus) into one dashboard.
+
+- It shows what's happening across your systems.
+- Helps detect attacks and investigate problems.
+- Example tools: Splunk, IBM QRadar, Microsoft Sentinel.
+
+> Think of it as your **security command center**, showing everything in one place.
+
+---
+
+## 🦠 Antivirus / Antimalware
+
+These are programs designed to **find and remove malware**, such as:
+- Viruses
+- Ransomware
+- Spyware
+- Worms
+- Trojans
+
+They work by:
+- Scanning files
+- Checking behavior
+- Blocking known threats in real time
+
+> Like a **doctor for your computer**, checking for infections and treating them.
+
+Popular tools: Bitdefender, Norton, Malwarebytes, Windows Defender.
+
+---
+
+## 🧪 Vulnerability Scanners
+
+These tools **scan systems for weak spots** that hackers could use to get in.
+
+- They look for outdated software, misconfigurations, or missing patches.
+- Example: Nessus, OpenVAS, Qualys.
+
+> Like a **security inspection** that checks every door and window to make sure they're locked.
+
+---
+
+## 🔥 Firewall
+
+A **firewall** is like a **gatekeeper** for your network or computer.
+
+- It blocks unwanted traffic.
+- Allows only approved connections.
+- Protects against hackers and malware from getting in or spreading.
+
+There are two types:
+- **Network firewall**: Protects the whole network.
+- **Host firewall**: Installed on a single device (like Windows Firewall).
+
+---
+
+## 📋 Summary Table
+
+| Tool | What It Does | Where It's Used | Active or Passive? |
+|------|--------------|------------------|---------------------|
+| IDS | Detects threats and alerts | Network or device | Passive (just alerts) |
+| IPS | Detects and blocks threats | Network or device | Active (takes action) |
+| HIDS | Monitors one device | Host (laptop/server) | Passive |
+| NIDS | Monitors network traffic | Network level | Passive |
+| SIEM | Collects and analyzes data | Across all systems | Monitoring tool |
+| Antivirus | Removes malware | End-user devices | Active |
+| Scanner | Finds weaknesses | All systems | Passive |
+| Firewall | Blocks or allows traffic | Network or device | Active |
+
+---
+
+
+
 > 💡 *Want to learn how to set this up in your home or office? You can start by separating smart devices from your personal computer on your router!*
