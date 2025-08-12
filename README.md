@@ -2402,6 +2402,57 @@ DAC systems rely on the **discretion of the owner** to manage access permissions
 
 ---
 
+# 🛡️ Mandatory Access Control (MAC)
+
+**Mandatory Access Control (MAC)** is a highly structured access control model in which **access permissions are centrally controlled** by system administrators. Unlike Discretionary Access Control (DAC), where users have the ability to manage access to resources they own, MAC enforces access policies **uniformly and rigidly** across all subjects and objects in the system.
+
+Access decisions are based on pre-defined **security labels** assigned to users and resources (e.g., classifications like *Confidential*, *Secret*, *Top Secret*). Only trusted security administrators can configure or modify these labels or the policies governing access.
+
+---
+
+## 🔐 Core Characteristics of MAC
+
+- Policies are **centrally defined** and **strictly enforced**.
+- Access is **not left to the discretion of users**.
+- Only **security administrators** can:
+  - Modify access permissions.
+  - Change system security attributes.
+  - Assign or alter security labels.
+  - Control access rules across all system components.
+
+---
+
+## 🚫 Subjects Are Prevented From:
+
+- Sharing information with unauthorized subjects.
+- Delegating their access rights or privileges.
+- Changing system-level security attributes.
+- Assigning security labels to new or existing objects.
+- Modifying or disabling access control rules.
+
+---
+
+## 🆚 MAC vs DAC
+
+| Feature                              | MAC (Mandatory)                                  | DAC (Discretionary)                               |
+|--------------------------------------|--------------------------------------------------|---------------------------------------------------|
+| Access Control Authority             | Centralized (Admin-controlled)                   | User/owner-controlled                             |
+| Flexibility                          | Low – strict, rigid enforcement                  | High – owners manage their resources              |
+| Suitable For                         | Government, military, high-security environments | General business, personal computing              |
+| Risk of Misuse or Accidental Sharing | Very low                                         | Higher, due to user discretion                    |
+
+---
+
+## 🖥️ Common Use Cases
+
+- Military and defense systems with classified data.
+- Government agencies dealing with sensitive information.
+- Healthcare systems adhering to strict privacy laws (e.g., HIPAA).
+- Enterprise environments needing robust information compartmentalization.
+
+---
+
+
 
 
 
