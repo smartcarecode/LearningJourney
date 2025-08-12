@@ -2,178 +2,80 @@
 
 ---
 
-## Welcome!
+## Introduction
 
-I’m beginning an exciting new chapter as I transition from healthcare into the field of **Cybersecurity**. With over 7 years of experience in healthcare, I have seen how important it is to protect sensitive patient information and ensure that healthcare systems stay secure and reliable. These experiences have sparked a strong interest in cybersecurity, motivating me to learn the skills needed to help protect data and systems from evolving threats.
+I am embarking on a focused journey into **Cybersecurity**, leveraging over 7 years of experience in healthcare where safeguarding sensitive patient information and system integrity was critical. This background has fueled my commitment to protecting digital assets through cybersecurity.
 
-I approach this career transition with humility and a genuine eagerness to learn. Cybersecurity is a complex and fast-changing field, and I’m committed to building my knowledge step by step, focusing on practical skills and real-world applications. I believe that combining my healthcare background with cybersecurity will allow me to contribute thoughtfully to protecting critical systems where security matters most.
-
----
-
-## 🎯 My Vision & Objectives
-
-### Vision
-
-To grow into a skilled and responsible cybersecurity professional who prioritizes **data protection, privacy, and ethical use of technology** — especially in healthcare, where trust and security are essential.
-
-### Objectives
-
-- Develop a solid understanding of cybersecurity fundamentals, including how to identify and respond to threats.
-- Gain practical experience with tools and techniques used by cybersecurity professionals worldwide.
-- Earn industry-recognized certifications such as the **Google Cybersecurity Certificate** and **ISC² Certified in Cybersecurity (CC)** to validate my growing skills.
-- Build hands-on projects that demonstrate my ability to apply cybersecurity principles in meaningful ways.
-- Find opportunities to contribute to the security of healthcare systems by combining my domain knowledge and technical expertise.
+I approach this transition with humility, patience, and a strong willingness to learn. Cybersecurity is a constantly evolving field, and I am dedicated to mastering both foundational knowledge and practical skills needed to contribute responsibly and effectively.
 
 ---
 
-## 🛤️ Learning Roadmap: Clear and Flexible
+## Learning & Certification Path
 
-I have designed a step-by-step learning path that helps me progress steadily while adapting to new challenges:
+I have structured my learning around globally recognized certifications that build a comprehensive and relevant skillset:
 
-- Establish a professional GitHub portfolio to organize my notes, labs, and projects.
-- Study foundational topics like computer systems, networking basics, and cybersecurity principles.
-- Gain hands-on experience by completing labs and simulations, including Security Operations Center (SOC) tasks, Linux system administration, and threat detection.
-- Complete certification programs to build both confidence and credibility.
-- Create portfolio projects that demonstrate effective security practices and real incident response.
-- Prepare thoroughly for job applications with a polished resume, LinkedIn profile, and interview practice.
+- **ISC² Certified in Cybersecurity (CC)**  
+  My current focus, providing essential cybersecurity principles, network defense, access control, and incident response fundamentals.
 
----
+- **Google Cybersecurity Certificate**  
+  Building practical skills around cloud security and modern infrastructure protection.
 
-## 📂 About This Repository
+- **Cisco CyberOps Associate**  
+  Preparing for hands-on Security Operations Center (SOC) roles with real-time threat monitoring and response.
 
-This repository serves as my personal learning journal and toolbox where I:
+- **CompTIA Security+ and Advanced Certifications (CySA+, PenTest+)**  
+  Expanding knowledge into threat management, vulnerability assessment, and penetration testing.
 
-- Track my progress and reflect on what I’ve learned.
-- Share clear, simple notes and cheat sheets for complex topics.
-- Provide walkthroughs and scripts for cybersecurity tools and labs.
-- Collect and share useful resources such as tutorials and articles.
-- Document projects that show how I apply my knowledge in practical ways.
-
-This space represents my ongoing commitment to growth, and my goal to contribute meaningfully to protecting sensitive data and systems through modern cybersecurity.
+This sequential approach ensures steady progress and a well-rounded skillset aligned with industry needs.
 
 ---
 
-## 🛡️ Preparing for ISC² Certified in Cybersecurity (CC)
+## Practical Experience & Skills Development
 
-As part of the **ISC² One Million Certified in Cybersecurity** initiative, I am actively preparing for the **Certified in Cybersecurity (CC)** certification. This program offers structured learning and exam preparation, helping me develop skills that are in demand globally.
-
-### What I’m Learning
-
-- **Security Fundamentals:** Understanding different types of threats and the importance of the CIA triad (Confidentiality, Integrity, Availability).
-- **Access Control:** How authentication, authorization, and identity management work to protect systems.
-- **Network Security:** Basics of firewalls, secure communication, and network defense.
-- **Security Operations:** How to monitor systems, respond to incidents, and plan disaster recovery.
-- **Software Security:** Principles of secure coding and managing vulnerabilities.
-
-### My Goals
-
-- Successfully complete the CC certification to demonstrate a trusted baseline of knowledge.
-- Build a strong and practical skillset that aligns with current cybersecurity roles.
-- Apply what I learn through hands-on labs, open-source projects, and real-world problem solving.
-- Share my learning journey openly to support others who are also starting their path in cybersecurity.
+- Creating a personal cybersecurity lab for hands-on practice with tools and simulations.
+- Analyzing network traffic and applying threat detection techniques.
+- Automating routine security monitoring and incident response tasks.
+- Documenting and sharing projects that demonstrate applied cybersecurity knowledge.
 
 ---
 
-## 🔗 Helpful Resources
+## Balancing Growth with Life Commitments
 
-- [ISC² Certified in Cybersecurity (CC) Program](https://www.isc2.org/Certifications/CC)
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
-- [GitHub Learning Lab](https://lab.github.com/)
-- [Healthcare Cybersecurity Best Practices](https://www.healthit.gov/topic/privacy-security-and-hipaa)
+Maintaining a sustainable balance between work, personal life, and learning is a priority. I dedicate focused time to study while honoring my professional duties and personal wellbeing, including social and family commitments. This balance supports my motivation, resilience, and consistent progress.
 
 ---
 
-Thank you for visiting my repository! I warmly welcome any advice, feedback, collaboration, or connections.  
-I am eager to grow, learn, and contribute to building safer digital environments — especially where it matters most, like healthcare.
+## Repository Purpose
+
+This repository serves as my personal learning journal and toolkit where I:
+
+- Organize study notes, cheat sheets, and lab walkthroughs.
+- Track progress and reflect on new skills.
+- Share practical projects and scripts.
+- Curate valuable cybersecurity resources for ongoing growth.
 
 ---
 
-#CybersecurityJourney #HealthcareSecurity #CareerTransition #Cybersecurity #ContinuousLearning #ISC2Candidate
+## Invitation for Collaboration
 
+I welcome feedback, mentorship, and connections from professionals and peers. My goal is to grow thoughtfully and contribute meaningfully to cybersecurity efforts, particularly where protecting sensitive data is vital.
 
----
-
-# 🛤️ My Cybersecurity Career Development Roadmap & Certification Plan
-
----
-
-## 🎓 Current Focus: Building a Strong Foundation with ISC² Certified in Cybersecurity (CC)
-
-I am currently deeply engaged in preparing for the **ISC² Certified in Cybersecurity (CC)** certification, chosen for its comprehensive and industry-respected introduction to cybersecurity fundamentals. This certification covers essential topics like security principles, network security, access control, and incident response.
-
-- I dedicate focused daily time to study, balancing my professional responsibilities and personal life.
-- I actively apply theoretical knowledge through labs and simulations to develop real-world skills.
-- I welcome challenges as opportunities to learn and grow steadily.
-- This certification will validate my readiness to contribute effectively in cybersecurity roles.
-
-[Learn more about ISC² CC](https://www.isc2.org/Certifications/CC)
+Thank you for reviewing my journey.
 
 ---
 
-## 🎯 Next Steps: Expanding Skills with Additional Certifications
+## Useful Links
 
-### Google Cybersecurity Certificate
-
-Next, I plan to complete the **Google Cybersecurity Certificate** to build practical skills in securing cloud environments and modern IT infrastructures.
-
-### Cisco CyberOps Associate Certification
-
-Following that, I will pursue **Cisco CyberOps Associate**, focusing on Security Operations Center (SOC) roles, real-time threat detection, and incident response.
-
-### CompTIA Security+ and Advanced Certifications
-
-Finally, I aim to earn **CompTIA Security+** and further specialize with **CySA+** and **PenTest+** certifications to develop a broad and competitive cybersecurity skill set.
+- [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC)  
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
+- [Cisco CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops.html)  
+- [CompTIA Security+](https://www.comptia.org/certifications/security)  
+- [TryHackMe](https://tryhackme.com/)  
+- [Hack The Box](https://www.hackthebox.eu/)  
+- [SANS Cyber Aces](https://www.cyberaces.org/)  
+- [OWASP](https://owasp.org/)
 
 ---
-
-## 🔍 Core Areas of Expertise Under Development
-
-- Security Principles & Frameworks: Threats, vulnerabilities, CIA triad (Confidentiality, Integrity, Availability).
-- Network Security: Firewalls, IDS/IPS, VPNs, and secure communication.
-- Identity & Access Management: Authentication, authorization, and lifecycle management.
-- Security Operations: Monitoring, incident response, disaster recovery.
-- Application Security: Secure coding and vulnerability management.
-
----
-
-## 📚 Commitment to Balance and Growth
-
-- I carefully manage my time, dedicating consistent study hours outside of my work schedule.
-- I prioritize work, personal well-being, and social activities alongside my learning to maintain a healthy, sustainable balance.
-- This balanced approach helps me stay motivated, focused, and resilient throughout my career transition.
-- I believe continuous improvement comes from steady progress combined with self-care and real-world engagement.
-
----
-
-## 💻 Practical Experience & Projects
-
-- Building a personal cybersecurity lab environment for hands-on practice.
-- Analyzing network traffic and threat patterns using industry tools.
-- Automating routine security monitoring tasks.
-- Documenting and sharing projects to demonstrate skills and learning.
-
----
-
-## 🔗 Resources & Tools
-
-- ISC² Certified in Cybersecurity (CC)  
-- Google Cybersecurity Certificate  
-- Cisco CyberOps Associate  
-- CompTIA Security+ and advanced certs  
-- TryHackMe, Hack The Box, SANS Cyber Aces, OWASP
-
----
-
-## 🤝 Message to Future Employers
-
-I bring a strong commitment to learning, integrity, and adaptability, along with a practical approach to balancing professional growth and personal responsibilities. My background enriches my understanding of the importance of cybersecurity, and I am eager to contribute effectively while continuing to grow.
-
-Thank you for considering my journey—I look forward to opportunities to collaborate and make a meaningful impact.
-
----
-
-#CybersecurityJourney #ContinuousLearning #WorkLifeBalance #ISC2Candidate #DedicatedLearner #GlobalCybersecurity
-
 
 ## 🌟 Progress Update: Today’s Learning Achievement
 
