@@ -77,32 +77,6 @@ Thank you for reviewing my journey.
 
 ---
 
-## 🌟 Progress Update: Today’s Learning Achievement
-
-Today, I focused on deeply understanding the **CIA Triad** — the cornerstone of information security:  
-**Confidentiality, Integrity, and Availability.**
-
-I’m excited to have grasped these concepts clearly and am committed to building on this knowledge daily. This milestone marks an important step toward becoming a skilled cybersecurity professional.
-
-Continuous learning and growth remain my priorities. I’m motivated to keep pushing forward with discipline and passion.
-
----
-
-## 📌 Useful Links
-
-- [ISC² Certified in Cybersecurity (CC) Official Page](https://www.isc2.org/Certifications/CC)
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
-- [GitHub Learning Lab](https://lab.github.com/)
-
----
-
-Thanks for visiting! Feel free to explore my work, share feedback, or connect professionally.
-
----
-
-#LearningJourney #HealthcareToCybersecurity #DataAnalysis #Cybersecurity #CareerTransition
-
-
 # ISC2 NOTES
 
 ## 🌟 Progress Update: Today’s Learning Achievement
