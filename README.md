@@ -2743,5 +2743,43 @@ Use this guide if you are:
 
 ---
 
-> ✍️ *Feel free to fork this repo, suggest changes, or contribute with diagrams, examples, or notes. Everyone is welcome to improve this learning resource!*
 
+---
+
+## 🛡️ What Are the Risks of Using Wi-Fi?
+
+Because Wi-Fi uses radio waves that travel through the air:
+
+- Anyone nearby could try to **listen in or connect** if the network is not protected.  
+- Unlike wired networks, you don’t need to physically plug in, which makes wireless networks more vulnerable.  
+- Attackers can attempt to steal data or use your internet without permission.
+
+---
+
+## 🔒 How to Protect Your Wi-Fi Network
+
+To keep your Wi-Fi safe, you should:
+
+- Use a **strong, hard-to-guess password** for your Wi-Fi network.  
+- Turn on **encryption** like WPA2 or WPA3, which scrambles the information so outsiders can’t read it.  
+- Change the **default admin username and password** on your router to stop others from changing settings.  
+- Avoid using **open networks** that don’t require passwords.  
+- Regularly check what devices are connected and remove any you don’t recognize.
+
+---
+
+## 🧳 Benefits of Wi-Fi
+
+Wi-Fi lets you:
+
+- Use your devices **anywhere inside the house or office** without being stuck to a cable.  
+- Connect **multiple devices** easily (phones, laptops, tablets, smart TVs, etc.)  
+- Move freely and still stay connected to the internet or shared resources like printers.
+
+---
+
+## 📋 Summary
+
+Wi-Fi means you can connect wirelessly and move around freely. It makes life easier but also requires good security to keep your data safe. Using strong passwords and encryption helps protect your wireless network from hackers and unwanted users.
+
+---
