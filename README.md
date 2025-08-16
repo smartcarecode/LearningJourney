@@ -4302,31 +4302,6 @@ Cloud computing is delivered in different service models, each offering differen
 
 ---
 
-## Extended Description
-
-Cloud computing has revolutionized how individuals and organizations consume technology. Instead of purchasing expensive hardware and software, cloud computing allows users to rent resources like computing power, storage, and applications through the internet. This provides enormous flexibility, enabling businesses to scale quickly according to demand while keeping costs aligned with actual usage.
-
-The cloud’s ability to provide ubiquitous access, rapid elasticity, and measured service supports a wide variety of use cases—from streaming movies to hosting large-scale business applications. Different cloud service models allow organizations to choose how much control they want over the infrastructure and software, catering to diverse technical needs and skill levels.
-
-The deployment models add another layer of customization, letting businesses balance concerns about data privacy, control, and cost. Overall, cloud computing is a fundamental technology powering modern digital transformation, enabling faster innovation, operational efficiency, and business agility.
-
----
-
-> ### Summary Table
-
-| Topic                  | Explanation                                                      | Real-World Example                         |
-|------------------------|------------------------------------------------------------------|-------------------------------------------|
-| **Ubiquitous Network Access** | Access cloud from any internet-connected device.                  | Checking email on phone or laptop          |
-| **On-Demand Self-Service**     | Provision resources instantly without manual intervention.         | Adding extra cloud storage immediately     |
-| **Rapid Elasticity**           | Automatically scale resources up/down as needed.                   | E-commerce sites scaling during sales      |
-| **Measured Service**           | Pay based on actual usage.                                         | Mobile data or electricity bills            |
-| **Resource Pooling**           | Multiple users share infrastructure securely.                     | Multiple users sharing Google Drive servers |
-| **SaaS**                      | Use software via the internet; provider manages everything.       | Using Gmail or Netflix                      |
-| **PaaS**                      | Develop and deploy apps on provider’s platform.                   | Google App Engine                           |
-| **IaaS**                      | Rent virtual servers/storage; user controls OS and apps.          | Running virtual machines on AWS EC2        |
-| **Public Cloud**              | Cloud services open to anyone over the internet.                  | Startups using AWS or Azure                 |
-| **Private Cloud**             | Cloud dedicated to a single organization for better control.       | Large bank using its own private cloud      |
-| **Hybrid Cloud**              | Mix of public and private clouds for flexibility and security.    | Company moving some workloads to public cloud while keeping sensitive data private |
 
 ---
 
