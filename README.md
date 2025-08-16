@@ -5445,3 +5445,76 @@ You **build security in from the start**, and then use tools like **logs** to mo
 > “Security isn’t something you install. It’s something you plan for — and live with every day.”
 
 
+# 📜 Common Security Policies
+
+## 📘 What Are Security Policies?
+
+**Security policies** are official rules set by an organization to protect its information, systems, and people. These policies guide employees on how to **handle data**, **use technology**, and **behave securely** at work.
+
+They are part of the organization's **baseline security posture** — the minimum level of protection and behavior expected to prevent security risks.
+
+---
+
+## 🏢 Why Do Organizations Need Security Policies?
+
+Every organization has its own:
+- Mission 🧭
+- Values 💡
+- Structure 🧱
+- Risks 🔓
+
+Security policies are created to support those goals and **reduce the chances of data breaches, system failures, or human mistakes**.
+
+For example, a healthcare company must protect patient data (HIPAA), while a financial company must protect financial records (PCI DSS). Policies help employees understand their role in keeping information secure.
+
+---
+
+## 🧾 Common Types of Security Policies
+
+| Policy Type                | What It Covers                                      | Example in Real Life                    |
+|----------------------------|-----------------------------------------------------|------------------------------------------|
+| **Password Policy**        | Rules about password strength and renewal           | Must change work password every 90 days  |
+| **Acceptable Use Policy**  | What’s okay (and not okay) to do on company devices | No streaming movies on work laptop       |
+| **Data Classification**    | Labels for data sensitivity (public, confidential)  | HR documents marked "confidential"       |
+| **Device Usage Policy**    | Use of personal devices at work (BYOD)              | Cannot connect personal phone to work Wi-Fi |
+| **Email Policy**           | Guidelines for sending, receiving, and forwarding   | Don’t click suspicious links or attachments |
+| **Remote Work Policy**     | Secure access when working offsite                  | Use VPN and company-approved devices     |
+| **Incident Response Policy**| What to do if a breach occurs                       | Report any suspicious login attempts immediately |
+
+---
+
+## 🧍 Everyday Analogy: House Rules
+
+Think of company policies like **house rules**.
+
+- "Take your shoes off at the door."
+- "Don’t leave the door unlocked."
+- "Don’t give the house key to strangers."
+
+You create these rules to keep your home safe. Similarly, security policies keep a company's digital home safe.
+
+---
+
+## ⚠️ Consequences for Not Following Policies
+
+Just like breaking house rules leads to consequences, **noncompliance** with security policies also has penalties.
+
+| Violation Type         | Possible Consequences                                       |
+|------------------------|--------------------------------------------------------------|
+| First-Time Mistake     | Verbal or written warning                                    |
+| Repeated Violation     | Suspension, leave of absence, or loss of privileges          |
+| Critical Violation     | Termination of employment or legal action (e.g. leaking data) |
+
+✅ These consequences help ensure that **everyone takes security seriously**.
+
+---
+
+## 🧠 Example: Security Policy in Action
+
+### Scenario:
+An employee shares a confidential client list via personal email to work from home.
+
+- ❌ This breaks the **Data Handling Policy** and **Acceptable Use Policy**.
+- 🧑‍💼 HR
+
+
