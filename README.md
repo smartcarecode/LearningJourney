@@ -4899,7 +4899,7 @@ Data is permanently deleted when it’s no longer needed.
 
 > **Note:** Following the Data Life Cycle properly ensures that your data remains secure, organized, and compliant with privacy and retention standards.
 
-# 🔐 Cryptography & Encryption: A Beginner-Friendly Guide with Real-Life Examples
+# 🔐 Cryptography & Encryption
 
 > 📌 **Cryptography** isn't just for spies or secret agents — it’s everywhere around you! From unlocking your phone to online shopping, encryption protects your data every single day.
 
