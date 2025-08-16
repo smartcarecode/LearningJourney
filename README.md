@@ -3976,7 +3976,7 @@ A helpful VLAN diagram would show:
 
 ---
 
-#  Redundancy & Cloud Redundancy Explained
+#  Redundancy & Cloud Redundancy 
 
 ---
 
