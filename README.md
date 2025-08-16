@@ -4779,6 +4779,35 @@ Each task uses a separate logical port, allowing your system to handle them **si
 
 ---
 
+# 📊 Data Life Cycle
+
+## 🧾 Extended Description
+
+In today's digital world, **data** is one of the most valuable assets individuals and organizations possess. Every time you create a document, send a message, upload a photo, or access a database, you're interacting with data that is part of a continuous journey — a process known as the **Data Life Cycle**.
+
+The **Data Life Cycle** refers to the sequence of stages that data goes through from its initial creation to its final disposal. Understanding this cycle is essential for managing, securing, and utilizing data efficiently and responsibly. Each stage has its own purpose, challenges, and best practices, especially when it comes to protecting sensitive information, ensuring accessibility, and maintaining compliance with data privacy laws.
+
+While models of the data life cycle may vary slightly, most of them follow the same six fundamental stages:
+
+- **Create** – Data is generated or captured for the first time.
+- **Store** – Data is saved for future use.
+- **Use** – Data is accessed, edited, or processed.
+- **Share** – Data is transferred or made available to others.
+- **Archive** – Data is moved to long-term storage.
+- **Destroy** – Data is permanently deleted or disposed of.
+
+These stages are not always strictly linear — data can move back and forth between phases depending on how it's used. For example, archived data may be reactivated and used again, or shared data might be copied and re-stored elsewhere.
+
+Understanding and implementing a data life cycle model is especially important for:
+
+- **Data Governance:** Ensuring accountability and oversight in how data is handled.
+- **Data Security:** Protecting sensitive information from loss, theft, or unauthorized access at every stage.
+- **Compliance:** Meeting legal and regulatory requirements (e.g., GDPR, HIPAA).
+- **Efficiency:** Improving workflows by knowing what data is needed, where it is stored, and when it can be archived or deleted.
+
+This documentation provides a **practical, real-world view** of each life cycle stage using **everyday examples** that apply to personal, academic, and professional settings. Whether you're a student organizing schoolwork, a developer handling user data, or a business professional managing files and communication, this guide will help you understand how to manage data responsibly from beginning to end.
+
+> ⚠️ **Note:** Proper management of the data life cycle is not only a technical concern — it's also a legal, ethical, and strategic priority in the modern digital age.
 
 
 
