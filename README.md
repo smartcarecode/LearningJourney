@@ -5518,4 +5518,124 @@ An employee shares a confidential client list via personal email to work from ho
 - ❌ This breaks the **Data Handling Policy** and **Acceptable Use Policy**.
 - 🧑‍💼 HR
 
+---
+
+# 🎣 Phishing: What It Is and How to Spot It
+
+## 📘 What Is Phishing?
+
+**Phishing** is a cyberattack method used to **trick people** into giving up sensitive information such as:
+
+- 📧 Email credentials  
+- 💳 Bank or credit card details  
+- 🔐 Login passwords  
+- 🛜 Network access  
+
+Attackers pretend to be someone trustworthy — like a **bank**, **your boss**, **IT support**, or even **government agencies** — to get victims to act without thinking.
+
+---
+
+## 🧍 Everyday Life Analogy
+
+Imagine someone knocks on your door wearing a delivery uniform. They say you have a package, but they just need your credit card number to “verify your identity.”
+
+Would you give it to them?
+
+That’s **exactly what phishing is** — but it happens digitally: through email, text, or even phone calls.
+
+---
+
+## 💥 Why It’s a Serious Threat
+
+Phishing is one of the **most common and successful** cyberattack methods. It targets:
+
+- **Individuals** (e.g. employees, students, seniors)
+- **Entire departments** (e.g. finance, HR)
+- **Organizations** (from small businesses to global enterprises)
+
+Attackers use **clever and convincing tricks** to make people hand over sensitive data or **click dangerous links**.
+
+---
+
+## 📨 Common Phishing Delivery Methods
+
+| Method               | Description                                                      | Example                                        |
+|----------------------|------------------------------------------------------------------|------------------------------------------------|
+| **Email**            | Fake messages pretending to be legit organizations              | "Reset your password now or lose access!"     |
+| **Text messages**    | Short, urgent messages asking for action                        | "Your bank account is locked. Tap this link." |
+| **Phone calls (vishing)** | Impersonators ask for info over the phone                   | "I’m from IT. What’s your network password?"  |
+| **Social media DMs** | Messages from fake or hacked accounts                           | "Check out this cool video of you!"           |
+| **Instant messaging**| Used in workplace chat tools (Slack, Teams)                     | "Hey, can you help me buy some gift cards?"   |
+| **Malicious files**  | Attachments like PDFs, Word docs, or Excel sheets with malware  | "Invoice attached — please process today."    |
+
+---
+
+## 🐋 What Is Whaling?
+
+**Whaling** is a special type of phishing that targets **high-level people** (like CEOs, CFOs, or board members).
+
+### Example:
+An attacker sends an email that **looks like it’s from the CEO**, asking the finance team to **wire $200,000 to a “new vendor.”**
+
+The email looks real:
+- Uses the CEO’s name
+- Contains the company’s branding
+- Is urgent and “confidential”
+
+If the finance team isn’t careful, they might **transfer real money** to a criminal’s account.
+
+---
+
+## 🧠 Real-Life Examples
+
+| Scenario                             | Description                                                                 |
+|--------------------------------------|-----------------------------------------------------------------------------|
+| You get an email from "Netflix"      | It says your account is on hold — and asks you to log in via a fake link. |
+| Fake message from "Your Bank"        | Says your debit card was locked — click to unlock (and give up credentials).|
+| Message from "Your Boss"             | Asks you to buy gift cards urgently and send the codes via email.          |
+| “IT Support” wants your password     | Tells you there’s an update — and asks for your login to help.             |
+
+In each case, attackers are using **urgency, fear, or authority** to manipulate your response.
+
+---
+
+## 🛡️ How to Protect Yourself
+
+✅ **Think before you click**  
+- Hover over links to see where they actually go.
+
+✅ **Verify the source**  
+- If unsure, contact the sender through another method (e.g., phone).
+
+✅ **Check for oddities**  
+- Grammar mistakes, strange email addresses, or unusual requests.
+
+✅ **Never share passwords**  
+- No legitimate organization will ask for your password.
+
+✅ **Enable multi-factor authentication (MFA)**  
+- Even if a password is stolen, the attacker can’t log in.
+
+---
+
+## 🧾 Summary Table
+
+| Phishing Type  | Target        | Delivery Method   | Goal                            |
+|----------------|---------------|-------------------|----------------------------------|
+| Regular        | Any user      | Email, SMS, DMs   | Steal credentials or info        |
+| Spear Phishing | Specific user | Tailored emails   | Trick into clicking or sending data |
+| Whaling        | Executives    | Formal requests   | Trick into large money transfers |
+
+---
+
+## 🚨 Final Thought
+
+Phishing doesn’t require hacking technical systems — it **hacks humans** by exploiting trust and urgency. The best defense is:
+
+- Staying alert 👀  
+- Asking questions ❓  
+- Verifying sources ☎️  
+
+> “If it feels off — it probably is.”
+
 
