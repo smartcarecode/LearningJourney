@@ -3868,5 +3868,114 @@ An **abnormal shutdown** occurs when servers suddenly power off due to overheati
 | Warranty & lifetime          | Voided if operating outside spec       | Keep within thermal & humidity limits |
 
 ---
+# 🌐 Virtual Local Area Network (VLAN)
+
+## 📌 Overview
+
+A **VLAN (Virtual Local Area Network)** is a method of creating multiple, separate networks within the same physical network infrastructure. VLANs are configured using **network switches** and allow administrators to **group devices logically**, regardless of their physical location.
+
+Think of a VLAN as a **virtual wall** that separates one group of devices from another — even if all devices are plugged into the same switch.
+
+---
+
+## 🎯 Key Benefits of VLANs
+
+| Benefit               | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| 🧱 Network Segmentation | Divide one physical network into multiple virtual segments                 |
+| 🔒 Improved Security   | Limit access between departments or user groups                            |
+| 📶 Reduced Broadcasts  | Broadcasts stay within each VLAN, reducing congestion                       |
+| 🔧 Easy Management     | Devices can be moved to different VLANs without rewiring                   |
+| 🖥️ Logical Grouping     | Group devices by function, department, or location                         |
+
+---
+
+## 🖥️ How VLANs Work
+
+- **Switches** allow you to create VLANs by assigning ports to specific VLAN IDs.
+- Devices in the **same VLAN can communicate directly** (Layer 2).
+- **Devices in different VLANs cannot talk to each other** unless a **router** (Layer 3 device) is used.
+
+### 📦 Example Scenario
+
+| VLAN ID | Department | Devices                     |
+|---------|------------|-----------------------------|
+| 10      | HR         | HR PCs, printers             |
+| 20      | IT         | Admin computers, servers     |
+| 30      | Finance    | Finance PCs, database access |
+
+All devices connect to the same switches but are logically isolated in separate VLANs.
+
+---
+
+## 🔄 VLAN Communication Rules
+
+| Within Same VLAN  | Communication allowed ✅ |
+|-------------------|--------------------------|
+| Between VLANs     | Communication blocked ❌ by default |
+
+### 🔄 Inter-VLAN Communication
+To enable traffic **between VLANs**, a **router** or **Layer 3 switch** is required. This setup is often referred to as **"Router on a Stick"** configuration.
+
+---
+
+## ⚙️ VLAN Configuration Methods
+
+VLANs can be created based on:
+
+- 🔌 **Port-based VLAN** – Based on switch port numbers
+- 🌐 **IP subnet** – Group by IP ranges
+- 💻 **MAC address** – Based on device hardware address
+- 📡 **Protocol-based** – For specific types of network traffic
+
+---
+
+## 🔐 VLANs and Security
+
+### ✅ What VLANs Help With:
+- Isolating sensitive systems (e.g., HR or Finance)
+- Limiting broadcast domains (reducing attack surface)
+- Making traffic easier to monitor and control
+
+### ⚠️ Important Note:
+VLANs are **not full security tools**. Techniques like **VLAN hopping attacks** can be used by malicious users to intercept traffic from other VLANs.
+
+**Solution**: Combine VLANs with other security measures like:
+- Firewalls
+- Access control lists (ACLs)
+- Network monitoring tools
+
+---
+
+## 🧠 Real-World Analogy
+
+Imagine a large open-plan office with **invisible walls**. Although everyone is in the same building (network switch), each team — HR, IT, and Finance — is separated into different rooms (VLANs). They **can’t hear each other** unless a manager (router) lets them communicate.
+
+---
+
+## 📷 (Optional) Diagram Description
+
+A helpful VLAN diagram would show:
+
+- Two connected **switches**
+- Three VLANs (e.g., Red for HR, Blue for IT, Green for Finance)
+- Devices grouped by VLAN color
+- A **router** that connects VLANs for inter-VLAN communication
+
+---
+
+## 📖 Summary
+
+| Feature                        | Explanation                                                   |
+|-------------------------------|---------------------------------------------------------------|
+| Virtual LAN (VLAN)            | Logically separates devices on the same physical network      |
+| Same VLAN Communication       | Allowed by default (within Layer 2 switch)                    |
+| Different VLAN Communication  | Needs routing (Layer 3)                                       |
+| Improves Performance          | Reduces network noise and broadcast traffic                   |
+| Aids in Security              | Helps isolate sensitive systems, but not a complete solution  |
+
+---
+
+
 
 
