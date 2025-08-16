@@ -3560,5 +3560,76 @@ During surgery, a blackout occurs. The UPS instantly powers medical machines. 30
 
 > Redundant systems = Safety, continuity, and peace of mind during blackouts, disasters, and failures.
 
+# Network Segmentation and Demilitarized Zone (DMZ)
+
+## Overview
+
+Network segmentation is a key security practice that divides a large network into smaller, isolated segments to control access and improve protection. One common example is the use of a **Demilitarized Zone (DMZ)**, which serves as a buffer zone between the public internet and an organization's private internal network.
+
+---
+
+## What is Network Segmentation?
+
+- Divides a network into smaller parts (segments).
+- Controls how traffic moves between these parts.
+- Helps protect sensitive resources by limiting access.
+- Supports **defense in depth** by adding multiple security layers.
+- Especially useful for complex, multitiered applications.
+
+---
+
+## What is a DMZ?
+
+- A **DMZ** is a separate network segment placed between the public internet and the private internal network.
+- Hosts public-facing systems like web servers that need internet access.
+- Isolates these systems to protect the internal network from external attacks.
+- Acts as a buffer zone where external users can connect but cannot directly access sensitive internal systems.
+
+---
+
+## How Does a DMZ Work?
+
+- Public servers are placed in the DMZ.
+- DMZ is physically or logically separated from the internal network by:
+  - **Secured switches**, or
+  - An **additional firewall**.
+- Firewalls control and monitor traffic between:
+  - Internet ↔ DMZ, and
+  - DMZ ↔ Internal network.
+- Only authorized and filtered traffic can pass through these firewalls.
+
+---
+
+## Application DMZs (Semi-Trusted Networks)
+
+- Application servers sometimes need to communicate with both the DMZ and internal network.
+- These are placed in an **application DMZ** or **semi-trusted network**.
+- Access is limited to only those networks or systems that need it.
+- Further restricts exposure and increases security.
+
+---
+
+## Why Use Network Segmentation and DMZ?
+
+- Limits the damage if a public server is compromised.
+- Protects sensitive internal systems and data.
+- Controls and monitors access between network zones.
+- Provides layered security to prevent attackers from moving freely.
+- Ensures only authorized systems communicate with sensitive resources.
+
+---
+
+## Real-Life Analogy
+
+| Network Component | Real-Life Equivalent             |
+|-------------------|--------------------------------|
+| Internet          | The street outside your house  |
+| DMZ               | The building lobby or porch    |
+| Internal Network  | The private rooms inside house |
+
+Visitors can enter the lobby (DMZ), but cannot access the private rooms (internal network) without permission, enforced by security guards (firewalls).
+
+---
+
 
 
