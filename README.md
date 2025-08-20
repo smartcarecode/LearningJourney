@@ -5986,12 +5986,6 @@ In today’s highly connected world, cybersecurity plays a critical role in:
 
 - ----
 
-## 🔐 What Is Cybersecurity?
-
-Cybersecurity is the **ongoing effort to protect individuals, organizations, and governments** from digital threats. It focuses on protecting networked systems, sensitive data, and digital infrastructure from unauthorized access, misuse, or damage.
-
----
-
 ## 🌐 Why Cybersecurity Matters
 
 Cybersecurity impacts every level of our digital lives:
