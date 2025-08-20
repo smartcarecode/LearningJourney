@@ -5956,6 +5956,14 @@ Whether it's upgrading a system or trying a new diet — a **planned, tested, an
 
 ----
 
+## 💻 Current Studies: Cisco Networking Academy & ISC²
+
+I have now started the **Introduction to Cybersecurity** course through **Cisco Networking Academy**, completing all its modules to build a solid foundation in cybersecurity.
+
+After completing all 5 modules of the **ISC² Certified in Cybersecurity (CC)** course, I plan to sit for the ISC² exam once I have a stronger grasp of the concepts, greater confidence, and better command of the material.
+
+Combining Cisco’s practical coursework with ISC²’s comprehensive domains is helping me prepare thoroughly for a successful career transition into cybersecurity.
+
 
 
 
