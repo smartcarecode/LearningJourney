@@ -5960,9 +5960,17 @@ Whether it's upgrading a system or trying a new diet — a **planned, tested, an
 
 I have now started the **Introduction to Cybersecurity** course through **Cisco Networking Academy**, completing all its modules to build a solid foundation in cybersecurity.
 
-After completing all 5 modules of the **ISC² Certified in Cybersecurity (CC)** course, I plan to sit for the ISC² exam once I have a stronger grasp of the concepts, greater confidence, and better command of the material.
+After completing all 5 modules of the **ISC² Certified in Cybersecurity (CC)** course, I am studying Cisco’s coursework to strengthen my concepts and gain greater confidence before sitting for the ISC² exam.
 
-Combining Cisco’s practical coursework with ISC²’s comprehensive domains is helping me prepare thoroughly for a successful career transition into cybersecurity.
+The Cisco course includes these modules:
+
+1. Introduction to Cybersecurity  
+2. Attacks, Concepts, and Techniques  
+3. Protecting Your Data and Privacy  
+4. Protecting the Organization  
+5. Will Your Future Be in Cybersecurity?
+
+
 
 
 
