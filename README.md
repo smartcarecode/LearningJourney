@@ -6111,11 +6111,146 @@ Used to gain strategic advantage over adversaries. Goals include:
 As cyberwarfare grows, governments need skilled professionals to defend against national-level threats.
 
 ---
+# 🛡️ Types of Malware
+
+Cybercriminals use many different types of **malicious software (malware)** to steal data, bypass access controls, or compromise systems. Understanding the various types, how they spread, and their symptoms is essential for preventing and removing them.
+
+---
+
+## 📌 Malware Types (with Real-Life Examples & Symptoms)
+
+### 1. 🧬 Virus
+- **Definition**: Malicious code attached to legitimate files or programs, requiring user action to activate.
+- **Spread**: Email attachments, infected downloads, USB drives.
+- **Example**: You download a free game from an untrusted website, and it starts corrupting system files.
+- **Symptoms**:
+  - Slow performance
+  - System crashes
+  - Disappearing or corrupted files
+  - Disabled antivirus
+
+---
+
+### 2. 🪱 Worm
+- **Definition**: Self-replicating malware that spreads without user intervention.
+- **Spread**: Network connections, shared files, email.
+- **Example**: A worm spreads through your office network after one employee opens a phishing email.
+- **Symptoms**:
+  - High network traffic
+  - Sluggish internet
+  - Mass slowdowns across devices
+
+---
+
+### 3. 🐴 Trojan Horse
+- **Definition**: Malware disguised as legitimate software to trick users into installing it.
+- **Spread**: Cracked software, fake updates, phishing emails.
+- **Example**: Installing a fake version of Photoshop that secretly steals login credentials.
+- **Symptoms**:
+  - Unexpected pop-ups
+  - Strange background processes
+  - Unauthorized account access
+
+---
+
+### 4. 🔐 Ransomware
+- **Definition**: Locks or encrypts data, demanding payment for access.
+- **Spread**: Phishing links, infected websites, software flaws.
+- **Example**: Clicking on a fake delivery link results in all files being encrypted with a ransom note.
+- **Symptoms**:
+  - Encrypted or locked files
+  - Changed file extensions (e.g., `.locked`, `.encrypted`)
+  - Ransom messages
+
+---
+
+### 5. 🕵️ Spyware
+- **Definition**: Secretly collects user data and sends it to attackers.
+- **Spread**: Bundled software, browser extensions, fake apps.
+- **Example**: After installing a free converter, your browser is hijacked and personal data leaks.
+- **Symptoms**:
+  - New toolbars or homepage
+  - Data leaks
+  - Webcam/mic activating unexpectedly
+
+---
+
+### 6. 📢 Adware
+- **Definition**: Forces unwanted advertisements on the user.
+- **Spread**: Freeware, bundled installations.
+- **Example**: Installing a free app results in constant pop-up ads and browser redirects.
+- **Symptoms**:
+  - Persistent pop-ups
+  - Browser redirects
+  - Slow browsing speed
+
+---
+
+### 7. 🧰 Rootkit
+- **Definition**: Hides deep in the OS, allowing attackers to control the system unnoticed.
+- **Spread**: Trojans, phishing attacks, malicious software.
+- **Example**: Installing a fake update gives hackers hidden admin access.
+- **Symptoms**:
+  - Antivirus can't start
+  - Unusual system behavior
+  - Loss of admin privileges
+
+---
+
+### 8. ⌨️ Keylogger
+- **Definition**: Records every keystroke to steal personal information.
+- **Spread**: Trojans, malicious attachments, software bundles.
+- **Example**: A hidden program logs everything you type, including bank credentials.
+- **Symptoms**:
+  - Suspicious background activity
+  - Typing delays
+  - Stolen accounts or identity
+
+---
+
+### 9. 🤖 Bot / Botnet
+- **Definition**: Infected devices controlled remotely, often as part of a larger network.
+- **Spread**: Malware infections, phishing, vulnerabilities.
+- **Example**: Your computer becomes part of a botnet used to perform DDoS attacks.
+- **Symptoms**:
+  - Slow internet
+  - High CPU/network usage
+  - Unknown processes, blacklisted IP
+
+---
+
+## 📊 Summary Table
+
+| Malware Type   | Real-Life Example                              | Common Symptoms                                   |
+|----------------|--------------------------------------------------|--------------------------------------------------|
+| **Virus**       | Free game corrupts system files                 | Crashes, missing files, slow performance         |
+| **Worm**        | Spreads through office email network            | Network lag, multiple systems affected           |
+| **Trojan**      | Fake software steals passwords                  | Pop-ups, unauthorized access, slow performance   |
+| **Ransomware**  | Files locked with a ransom note                 | Encrypted files, ransom message                  |
+| **Spyware**     | Browser extension leaks personal data           | Data leaks, new toolbars, webcam turning on      |
+| **Adware**      | App shows intrusive ads                         | Excessive ads, browser redirects                  |
+| **Rootkit**     | Fake update hides attacker control              | Disabled security tools, system instability      |
+| **Keylogger**   | Logs typed passwords                            | Typing lag, account compromise                   |
+| **Bot/Botnet**  | Device used in DDoS attack                      | Slow network, high resource use, blacklisted IP  |
+
+---
+
+## ✅ Stay Safe
+
+To protect against malware:
+- Use trusted antivirus software
+- Keep systems and apps updated
+- Avoid suspicious downloads and links
+- Regularly back up important data
+- Educate yourself and your team
+
+---
+
+> 💬 _"Knowing the enemy is half the battle. Stay informed, stay protected."_
 
 
 
 
-
-
+---
 
 
