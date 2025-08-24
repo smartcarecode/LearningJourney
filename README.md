@@ -6734,6 +6734,26 @@ Ignoring vulnerabilities can lead to:
 
 ---
 
+# 🔐 What Is a Brute Force Approach?
+
+A **brute force approach** is a trial-and-error method used to **guess passwords, encryption keys, or solve problems** by trying **every possible combination** until the correct one is found.
+
+It’s simple, slow, but effective if the target uses weak security.
+
+---
+
+## 🧠 Simple Definition
+
+> A brute force attack is when a computer keeps guessing passwords or keys **one by one** until it finds the right one — no shortcuts, just raw power.
+
+---
+
+## 🧰 How It Works (Example)
+
+If your password is `1234`, a brute force attack would try:
+
+---
+
 # 🌐 The Cybersecurity Landscape: An Overview
 
 ---
