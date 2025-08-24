@@ -6679,6 +6679,75 @@ A **blockchain** is like a digital ledger or notebook that records all transacti
 
 ---
 
+# 🛠️ What Is a Miner in Cryptocurrency?
+
+A **miner** is a **person or computer** that helps run a cryptocurrency like **Bitcoin** by doing two important jobs:
+
+1. ✅ **Checks if transactions are real**
+2. 🧱 **Adds those transactions to the blockchain**
+
+In return, miners **earn rewards** in cryptocurrency (like Bitcoin).  
+It's like getting paid to help keep the system safe and running.
+
+---
+
+## 🔄 How Mining Works (Step-by-Step)
+
+1. 💸 People send cryptocurrency (like Bitcoin) to each other.
+2. 🧺 Miners collect these transactions into a group called a **block**.
+3. 🧠 Miners use computers to solve a **difficult math puzzle**.
+4. 🧱 The first one to solve it adds the block to the **blockchain**.
+5. 🏆 That miner receives a **reward** in cryptocurrency + small transaction fees.
+
+---
+
+## 💻 Who Can Be a Miner?
+
+| Type           | Example                                          |
+|----------------|--------------------------------------------------|
+| 👤 Individual   | A person mining Bitcoin on their home computer   |
+| 🖥️ Machine      | Special hardware like an ASIC or GPU miner       |
+| 🤝 Mining Pool  | A group of miners working together and sharing rewards |
+
+---
+
+## 🪙 Real-Life Example
+
+You download a mining app on your PC.  
+It uses your computer’s power to help confirm Bitcoin transactions.  
+Once your system solves a puzzle, you earn a small amount of Bitcoin.
+
+> It’s like helping out in a big digital system — and getting paid for it.
+
+---
+
+## ⚠️ Warning: Cryptojacking
+
+**Cryptojacking** is when hackers secretly install mining software on your computer or phone — without your permission.
+
+### 🧪 Signs of Cryptojacking:
+- 💻 Your device becomes slow
+- 🔋 Battery drains fast
+- 🌡️ Your device heats up
+
+> All because someone is secretly mining crypto using your system!
+
+---
+
+## ✅ Summary
+
+| 🔍 Miner Is...             | A person or machine that helps secure and run a cryptocurrency |
+|---------------------------|-----------------------------------------------------------------|
+| 💼 What It Does           | Verifies transactions and adds them to the blockchain           |
+| 💰 What It Gets           | Cryptocurrency rewards + fees                                   |
+| ⚠️ Watch Out For...        | Cryptojacking (hidden mining done by hackers)                   |
+
+---
+
+> 💡 Mining is how cryptocurrencies stay secure — but it must be done honestly and safely.
+
+---
+
 ### How Does Blockchain Work? (Daily Life Example)
 
 Imagine you and your friends keep track of who owes who money on a shared notebook. Whenever someone pays back money, you all write it down.
