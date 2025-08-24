@@ -6194,6 +6194,84 @@ Cybercriminals use many different types of **malicious software (malware)** to s
   - Antivirus can't start
   - Unusual system behavior
   - Loss of admin privileges
+ # 🛠️ What Is a Rootkit?
+
+A **rootkit** is a type of **malware** designed to:
+
+- 🕵️‍♂️ **Hide itself and other malicious software**
+- 🔐 **Give hackers secret, deep control over your computer**
+
+The name comes from "root" (the highest level of access on a system) + "kit" (a set of tools).  
+Rootkits are very hard to detect and remove — that’s what makes them dangerous.
+
+---
+
+## 🔍 What Does a Rootkit Do?
+
+| Function                | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| 🫥 Hides Files           | It hides malware, processes, or even whole programs from view               |
+| 🚫 Blocks Antivirus     | It can disable or trick antivirus and monitoring tools                      |
+| 💻 Remote Access         | Gives hackers control over your system from anywhere                        |
+| 🔁 Stays Hidden          | Helps other malware live longer inside your device without being noticed    |
+
+---
+
+## 💻 Real-Life Example
+
+You download a free cracked game from an unknown website.  
+Behind the scenes, it installs a **rootkit** and a **keylogger** that secretly records everything you type — including your banking password.
+
+Your antivirus doesn't see it.  
+You don’t notice it.  
+But the hacker does. 🎯
+
+---
+
+## 🗃️ Where Rootkits Can Hide
+
+| Type                   | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 🔧 **Kernel Rootkit**   | Hides deep in the operating system (most dangerous)                         |
+| 📂 **User-Mode Rootkit**| Hides in normal software or running processes                               |
+| 💽 **Firmware Rootkit** | Infects hardware like your BIOS, router, or hard drive                      |
+| ⚙️ **Bootloader Rootkit** | Loads before your operating system even starts                              |
+
+---
+
+## 🛡️ Related Areas in Cybersecurity
+
+Rootkits are part of several cybersecurity domains:
+
+- 🔐 **Endpoint Security**  
+- 🧪 **Malware Analysis**  
+- 🛠️ **Incident Response & Forensics**  
+- 🧠 **Threat Detection & Hunting**
+
+---
+
+## 🚨 Why Rootkits Are Dangerous
+
+- ❌ **Hard to detect**
+- 🧪 **Can hide other malware**
+- 🔓 **Gives full control to attackers**
+- 🧼 **May require a full wipe to remove**
+
+---
+
+## ✅ How to Protect Yourself
+
+- 🆙 Keep your operating system and apps **updated**
+- ⚠️ Don’t download from **untrusted sources**
+- 🛡️ Use **strong antivirus and anti-malware tools**
+- 📧 Be careful with **email attachments** and **USB drives**
+- 💾 If infected: **backup important files** and consider a **clean reinstall**
+
+---
+
+> 💡 **Think of a rootkit like a digital invisibility cloak for hackers — silent, powerful, and dangerous if left undetected.**
+
+  - 
 
 ---
 
