@@ -7382,4 +7382,84 @@ Even with security turned on, your network can still be vulnerable.
 
 ---
 
+# 📶 Staying Safe on Public Wi-Fi
+
+Public Wi-Fi networks (like in cafes, airports, or hotels) are convenient — but they can also be risky. Hackers often use these networks to steal information.
+
+This guide explains how to **use public Wi-Fi safely** and protect your personal data.
+
+---
+
+## ⚠️ 1. Why Public Wi-Fi Can Be Dangerous
+
+When you're connected to a public Wi-Fi network, others on the same network might be able to:
+
+- See the websites you're visiting
+- Steal your personal information (like passwords or banking info)
+- Trick you into connecting to fake Wi-Fi networks
+
+---
+
+## 🛡️ 2. What *Not* to Do on Public Wi-Fi
+
+Avoid doing these things on public networks:
+
+- ❌ Don’t log in to bank accounts or shopping websites  
+- ❌ Don’t send sensitive information like credit card numbers  
+- ❌ Don’t access private or work-related data
+
+---
+
+## ✅ 3. How to Stay Safe
+
+Here are steps you can take to protect yourself when using public Wi-Fi:
+
+### 🔒 Use a VPN (Virtual Private Network)
+- A **VPN encrypts** your connection.
+- Even if someone tries to intercept your data, they won’t be able to read it.
+- Many VPN services are easy to use and work on phones, laptops, and tablets.
+
+> ✅ Think of a VPN as a private tunnel for your internet traffic.
+
+### 🧩 Turn Off File & Media Sharing
+- On public Wi-Fi, make sure your device:
+  - Doesn’t share files or printers
+  - Is not set to automatically connect to nearby devices
+
+### 🔐 Enable Authentication and Encryption
+- Your device should:
+  - Require a password to connect
+  - Use **encrypted connections** (HTTPS websites, secure apps)
+
+---
+
+## 🔍 4. How to Know If a Network Is Safe
+
+Here’s a quick checklist:
+
+| Question | Safe? |
+|----------|-------|
+| Is the network name correct (ask the staff if unsure)? | ✅ |
+| Does the website show a padlock (🔒) in the browser? | ✅ |
+| Is the network open and requires no password? | ❌ |
+| Are you visiting sensitive websites (e.g., bank, work portal)? | ❌ |
+
+---
+
+## 📌 Summary
+
+| Do This | Why |
+|---------|-----|
+| Use a VPN | Encrypts your data so hackers can't read it |
+| Disable file sharing | Stops others from accessing your files |
+| Only visit secure websites (HTTPS) | Keeps your connection private |
+| Avoid logging into sensitive accounts | Prevents password theft |
+
+---
+
+> 📖 **Tip:** Use public Wi-Fi for casual browsing only. Save sensitive activity for when you're on a secure home or mobile network.
+
+---
+
+
 
