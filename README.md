@@ -7691,6 +7691,54 @@ Files deleted normally aren’t completely erased. The data stays on your device
 > 🔒 **Tip:** Combine encryption with secure deletion for the best protection.
 
 
+---
+
+# How to Protect Your Data and Account
+
+Using online services means you need to keep your information safe. Here are simple steps to help you protect your data and your account.
+
+---
+
+## Understand What You Agree To
+
+- Always **read the terms and rules** before signing up.
+- Know what information the service collects about you.
+- Learn how your data will be used and shared.
+- Check if the service keeps your data safe.
+
+---
+
+## Keep Your Account Safe
+
+- Use a **strong password** with letters, numbers, and symbols.
+- Don’t use the same password for different accounts.
+- Turn on **two-factor authentication (2FA)** when available — this means you need a code besides your password.
+- Watch your account for strange activity or logins you don’t recognize.
+- Always **log out** when you finish, especially on public or shared devices.
+- Don’t use public Wi-Fi to access important accounts without extra protection.
+
+---
+
+## Protect Your Personal Data
+
+- Back up your important files on another device or cloud storage.
+- Use **encryption** tools to keep sensitive data private.
+- Don’t share your passwords or account details with anyone.
+- Be careful about clicking on links or downloading files from unknown sources — they might be scams.
+- Regularly check which apps or websites have access to your data and remove those you don’t trust.
+
+---
+
+## Quick Tips to Remember
+
+- Strong passwords + 2FA = safer accounts.
+- Read terms before agreeing.
+- Backup your data regularly.
+- Stay alert for unusual activity.
+
+---
+
+
 
 
 
