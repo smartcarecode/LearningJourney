@@ -7165,6 +7165,7 @@ It’s like clearing the packaging and stickers off a new car before you drive i
 **Why?** Protects against viruses, ransomware, and phishing attempts.
 
 #### 🛡️ Good Options:
+
 - **Windows Defender** (built-in)
 - **Malwarebytes**, **Bitdefender**, **Norton**, etc.
 
@@ -7301,6 +7302,83 @@ It’s like closing your curtains — you decide who sees what.
 ---
 
 > 🧠 _“You don’t need to be a tech expert to stay secure — just follow these simple steps.”_
+
+---
+
+# 🛡️ Home Wi-Fi Security Guide (Simple Version)
+
+Your home Wi-Fi connects your devices (like phones, laptops, and tablets) to the internet. But without proper setup, it can be unsafe.
+
+This guide explains **simple steps** anyone can follow to make their home wireless network more secure.
+
+---
+
+## 📶 1. What Is an SSID?
+
+- The **SSID** is your Wi-Fi network name (e.g., `JohnsWiFi`).
+- Hiding the SSID doesn’t really protect your network — hackers can still find it.
+- Focus on **real security steps** instead of just hiding the network name.
+
+---
+
+## 🔑 2. Change the Default Settings
+
+Most routers come with:
+
+- A **default network name (SSID)** like `TP-Link_1234`
+- A **default password** like `admin` or `123456`
+
+❗ These are **easy for hackers to guess**.
+
+### ✅ What You Should Do:
+
+- **Change the network name (SSID)** to something unique but not personal.
+- **Create a strong password** using a mix of letters, numbers, and symbols.
+
+> Example: `HappyHome#2025`
+
+---
+
+## 🔒 3. Turn On Wi-Fi Security (Encryption)
+
+Encryption keeps your internet traffic private.
+
+### ✅ Steps:
+
+- Log in to your router settings (usually by typing something like `192.168.0.1` in your browser).
+- Enable **WPA2** or **WPA3** encryption.
+- Create a **strong Wi-Fi password** (different from the router login password).
+
+> 📌 If you're unsure how to do this, check your router's manual or ask someone tech-savvy.
+
+---
+
+## ⚠️ 4. Stay Aware – Wi-Fi Is Not Perfectly Safe
+
+Even with security turned on, your network can still be vulnerable.
+
+### 🛠️ Extra Tips:
+
+- **Update your router firmware** regularly to patch security holes.
+- **Disable WPS** (a quick-connect feature that’s risky).
+- **Set up a guest network** for visitors.
+- **Check connected devices** to make sure only your devices are on the network.
+
+---
+
+## ✅ Quick Summary
+
+| Task | Why It’s Important |
+|------|---------------------|
+| Change default network name and password | Prevents easy access |
+| Enable WPA2/WPA3 encryption | Keeps your data private |
+| Use a strong Wi-Fi password | Makes it harder to hack |
+| Update your router regularly | Fixes security issues |
+| Use a guest network | Keeps your main network safe |
+
+---
+
+> 🔐 **Tip:** Good security doesn’t need to be complicated — just follow the basics and stay updated!
 
 ---
 
