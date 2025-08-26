@@ -8092,6 +8092,46 @@ Performs a stealth scan on ports 1–1000 on the device.
 
 ---
 
+# 🔍 Nmap Made Simple – Beginner-Friendly Guide
+
+## What is Nmap?
+
+**Nmap** (short for **Network Mapper**) is a free tool used to scan computers, devices, or websites to find out:
+
+- What devices are online
+- What **ports** (entry points) are open
+- What **services** are running (like websites, file sharing, remote access)
+- What **operating system** is being used
+- If there are any **security issues**
+
+🧑‍💻 It's used by:
+- Network admins (to manage and check networks)
+- Ethical hackers and cybersecurity experts (to test security)
+
+---
+
+## 🛠 What You Can Do with Nmap
+
+| Goal                         | What It Means                                                  |
+|------------------------------|------------------------------------------------------------------|
+| Find devices on a network     | See what computers or phones are connected                     |
+| Find open ports               | Check which ports (like doors) are open on a device            |
+| Find services                 | Learn what software or services are running (like a web server)|
+| Guess the OS                  | Try to tell if it's Windows, Linux, etc.                       |
+| Check for weak spots          | Look for possible security problems or misconfigurations       |
+
+---
+
+## 📘 Simple Nmap Examples
+
+### 🔹 1. Basic Scan – Check if a Device is Online
+```bash
+nmap 192.168.1.10
+
+
+---
+
+
 ## ✅ Summary
 
 | Term            | Simple Meaning                                 |
